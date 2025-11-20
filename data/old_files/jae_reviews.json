@@ -1,0 +1,1322 @@
+[
+    {
+        "agree_count": 4,
+        "content": "I stepped into 3157 with the same fear as everyone else. I walked out with a stack of knowledge, countless tricks, and... still a lingering fear. It was an intense course, but with the right approach, it\u2019s more than manageable.\n\nContent:\nYes. Jae is *that* good. You've probably heard some horror stories\u2014and I can confirm them\u2014but his course design and lectures are truly exceptional. In the end, \n- You will learn a lot about C\n- You will build a solid foundation in Git and UNIX\n- You will be a very careful coder, thanks to his harsh grading :(\nAre these useful? Not always, but think of it as a workout on your programming habit and attitude.\n----------\nSurvival tips\n- Attend lectures in-person, and take good notes\n- Join Section 2 for extra help\u2014it's where Jae shows his nice side (yes, it exists)\n- Do the practice exams and review solutions carefully\n- Start the labs EARLY. Debugging under pressure is not a fun sport.\n- The TAs and ListServ are incredibly helpful!\n\n\n",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 4,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 86419,
+        "submission_date": "2025-01-13T13:43:22",
+        "workload": "TLDR: \"Grades may not be super accurate in terms of assessing your understanding.\" \n\u2013 Jae Lee, Day 1\n\nGrading is HARSH and often binary. Just try your best.\n\n----------\nAssignments:\n7 assignments (called labs), each with clear guidelines\n- Lectures often hint at the general approach to a solution\n- No crazy programming gymnastics needed\u2014if you need something, he'll give you or tell you where to look. \n- Labs 6 and 7 are significantly longer but build on earlier labs\n- Debugging is where the real time goes. The rubric is harsh, so precision matters.\n- As always, start the labs EARLY. Not because they take forever, but reinforcing concepts early pays off in this fast-paced class.\n\n----------\nExams:\nJae is an awesome exam writer, testing your understanding to the finest detail.\n- The problems aren't impossible\u2013everything comes directly from the lectures and labs. The real challenge lies in managing stress and focusing on meticulous details.\n- Some problems offer generous partial credit. Others? Miss one part and the others crash down like an avalanche ...\n- Practice helps, but luck plays a role too. At the end of the day, we are human, not computers, not gcc -g -Wall. We make mistakes, and that\u2019s part of what makes us human.\n\n----------\nGrading\n\nHis grading system is statistically fair for a class with 400 students: on AVERAGE, good students do well, and bad students struggle. However, each of us only takes 3 exams, not 400, so this \"fairness\" may break down entirely on an individual scale.\n\nThe takeaway is: Always try your best, but never over-stress about your AP grade. It's your learning and improvement that matter. Your grade is just a number; it correlates with, but doesn\u2019t always define, your abilities.\n\nAlso don\u2019t lose sleep over an A+. It\u2019s reserved for the top 3-ish unfortunately..."
+    },
+    {
+        "agree_count": 3,
+        "content": "This class is INFAMOUS so you\u2019ll go in scared. Jae will scare you a little more. Eventually, you\u2019ll learn that it\u2019s really not that bad but the tests are pretty deadly (do all 4 practice tests he provides and watch/attend all the TA review sessions. Go to class. \n\nThis semester, like every other semester, there was a bit cheating scandal. A lot of people cheat and some of them get caught and threatened with disciplinary action. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 2,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 86414,
+        "submission_date": "2025-01-13T01:13:12",
+        "workload": "3 exams, and 7 labs. 6 and especially 7 are tough. Lots of people get busted for cheating on 6 and 7 and copying the code from the public repos on GitHub. Don\u2019t do it because he\u2019ll make you regret it. The labs are out of 87.5 (he\u2019ll explain to you how he gets that number later). So the max you can get is 387.5/400, and the grade cutoffs are posted at the end. You won\u2019t get an A+, you probably won\u2019t get an A. After that, the curve gets very generous. The vast majority of people reading this will get in the B range.  \n\nDifficulty is overhyped compared to other upper level classes, but I think it\u2019s because this is meant to be a bridge to upper level classes. Borowski does baby you a bit and Jae does his best to make an upperclassman out of you. Even if you know a lot of the new stuff like networks and C memory management, you\u2019ll still need to work hard and you will learn a lot (but especially if you don\u2019t know the new stuff). Seriously, it\u2019ll be like night and day. CS will start to make sense. Words that may have sounded like gibberish will become your new lingo. \n\nFinally, the cult of personality is real. You\u2019ll love Jae sometimes, you\u2019ll hate him other times, but most of all you\u2019ll get why every Columbia student knows his name. In spite of everything, I still recommend him over Borowski unless you know all this stuff already or have a really rough semester scheduled. Unless you really care about having > 4.0 (rather than, let\u2019s say, a 3.95) or can\u2019t code in intro to Java/data structures without ChatGPT, there are no downsides to this class. "
+    },
+    {
+        "agree_count": 4,
+        "content": "As someone who got a 92% raw score (before curve)...\n\nI literally had nightmares about this class before I took it, but it was really not that bad. The fearmongering about this course is INSANE and if you tell yourself the course is hard, it's only gonna make it harder for you. Yes, AP is a tough class, but if you put in genuine effort, you will be just fine! As with any course that is curved, you just have to do around average, so just make it your goal to score approx average on the HWs and exams. If you lower the bar, you'll be less stressed and score better.\n\nA lot of people say this course is useless. If you are a diehard SWE person, then you will also probably think it's useless. But, what many may not know is that a lot of roles want you to have a good understanding of basic networking, and that is exactly what AP teaches. \n\nHow to do well:\n-Show up to lectures. IN PERSON. Pay attention. So many people make the mistake of \"I'll just watch it later\".\n-If you don't understand something, ask for clarification IMMEDIATELY, either with classmates, TAs, or even Jae himself!\n-My most important tip: diagram/draft out the HWs ON PAPER before coding. HW6 (the second-hardest HW) took me only 2 hours to do because I wrote it all down on paper beforehand. If the paper version makes no sense, or if you don't even know how to start, go to the TAs and they will walk you through what to do.\n-To study for the exams, just do the practice exams over and over until you get nearly 100% on all of them. That's literally all I did to prepare. And yes, the exams don't always look like the practice, but if you do the practice exams, the actual exam will go way better for you.\n-Find a TA you like, and go to their OH every week. Make it a habit to go over content with them and ask them even the \"stupidest\" of questions.\n-DO NOT DROP LAB7. It will bomb your grade.\n\nI swear if you follow my advice above YOU WILL DO WELL. AP rewards attention to detail, hard work, and most importantly honesty. Like do not cheat. They will find you.\n\nMy grade breakdown:\nMidterm 1: slightly below average\nMidterm 2: exactly average\nFinal: 20% above average\nHW (with lowest dropped): considerably above average\n\nTL;DR: Just put in your best effort and ask questions. You will be fine.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 4,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 86258,
+        "submission_date": "2025-01-03T00:34:27",
+        "workload": "25% M1, 25% M2, 25% Final, 25% HW. \nHWs 1-3: 4-6 hours each\nHWs 4-6: 2-4 hours each\nHW 7 (final project): literally like 20 hours over a week lol"
+    },
+    {
+        "agree_count": 4,
+        "content": "People hype up this class and fear monger so much, and half of the stress of the class comes from that. Jae is a great teacher and his lectures are coherent, easy to follow, and relevant. He often gives extra help for labs in recitations and everything is recorded. The practice exams are really helpful and his exams are pretty fair, although very hard. You have to really know everything and understand to the finest detail. Be prepared to revolve your life around this class if you want to do well and put in 100% AUTHENTIC work. This is NOT a class you can cut corners in and if you think you can, you will find out quickly you cannot.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 86188,
+        "submission_date": "2024-12-27T16:00:56",
+        "workload": "7 Labs, would say spent the most time on labs 6 and 7. Grading is fair, try, try, try! One lab is dropped. Grading on exams is harsh, hard to get half credit on questions. Spent 12+ hours a week on the class."
+    },
+    {
+        "agree_count": 0,
+        "content": "I was really afraid of taking Advanced Programming due to the fearmongering, so much so that I dropped a course just so that I could focus on AP. One important thing to note is that we are in Columbia University, where people start tweaking out over an A-, meaning that a good chunk of the comments about courses can sometimes be blown out of proportion. That being said, while AP is definitely not an easy class, I would not really rate it as impossible, considering a lot of people do fairly well. \n\nI agree with most reviews here that Jae is a great lecturer and he can explain concepts very easily in his lectures. As for the content of the class, on the surface level, while the majority of the ideas taught in class are straightforward, they are prone to becoming really tricky really fast. In other words, you are expected to 100% understand a concept in order to do well in the exams. \n\nThis is a really demanding class, and people do well only if they put in the effort. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 86118,
+        "submission_date": "2024-12-20T15:14:52",
+        "workload": "7 labs (coding assignments), 3 exams. A total of 7 late days were given for the labs. The first five labs are graded out of 100, while lab 6 is graded out of 120 pts, and lab 7 is graded out of 150.  The labs build upon one another, as does the content of the course, so it is important you understand what the prominent functions in each labs do. The first 5 labs will probably take around 5 hours to complete on average. Lab 6 and 7 take SIGNIFICANTLY longer. \n\nGrading is kind of harsh what can I say.\n\nThe exams are, as Jae claims, really tricky sometimes. It is like preparing for a standardized exam. Which sucks imo. Just prepare well and get on that analytical mindset."
+    },
+    {
+        "agree_count": 140,
+        "content": "TLDR: I hated pretty much everything about this class, it dried up any passion I had for learning CS, made me lose hope as a student at Columbia, and pushed me to seek therapy. I wish I could say that sentence was a joke or an exaggeration, but it was the literal truth. I switched to a different major after this course. This is not because this class is a weed-out (every one passes if you don\u2019t cheat). Rather, it\u2019s the soul-sucking, inhumane, pedagogical vileness and borderline insanity that occupies the mind of one Jae Woo Lee that pushed me away from this course and major, and he\u2019s a nice guy too so imagine that. \n\nMore comprehensive review: \n\nJae's philosophy is essentially: if you try, you'll learn a lot. \n\nWhat this does not mean: 1) you will do well on exams 2) you will do well on labs 3) content will click immediately. \n\nIn fact, it's quite the opposite. It is through the grueling intensity of this course's homework and the monumental challenges that are the exams that the fundamental material of this course will be cemented into your brain by the end of it (provided you don't cheat and pay attention). You will understand how a computer works (at the surface level at least); you will be able to work with a large pre-written codebase; you will be prepared for higher level systems and database courses. These are the central assertions that Jae makes in the first lecture and then rigorously proves over the course.  \n\nHowever, will you end up liking CS after this course? For many, I don't think so. Understanding and learning a lot does not equate to enjoyment. The massive influx of knowledge you get from this course comes at the cost of your passion for CS drying up. Jae will contest this. In fact, the paper he published (and continues to promote) about this course has (carefully selected) reviews of students who took his course and developed a newfound passion for CS that they did not get from data structures and 1004/1006/1002. One example includes a physics student who switched to CS after taking AP and then ended up getting a PhD in the subject from a top university. This entire paper is predicated on flawed reasoning (pretty typical for STEM professors attempting sociological research): that people study computer science because they like computer science. Most don't. Most saw TikToks about the 150k+ salary that software engineers make and decided to enroll in Intro-to-Java. Most see the degree as a means to an end (a job). A minority probably like systems as a subject (they'll end up taking OS or becoming TAs), but do not *DELUDE* yourself that this course is going to make you like CS if you view this degree as a path to an engineering job at some tech company. When this course is over, you will be relieved, so relieved as to the point that you might elicit a tear or two that it\u2019s finally over. You survived the war. The finish-line. You made it. Then, whether or not you have a brain, you\u2019ll either take more courses with Jae or move onto better professors. \n\nIs C + UNIX programming useful? No! Jae admits this in lecture 1. What you actually learn from this course is less about C and more about a) how a computer works and the internal memory processes behind it, b) the basics of OS, and c) how to practice iterative development. Teaching C and UNIX is simply a vessel to that end. \n\nSome niche advice: \n\nDon't fall into the cult of personality surrounding Jae. He's a nice guy, but he isn't divine when it comes to CS education. He will try to justify AP\u2019s structure and workload off of a paper he wrote in 2011; he will cite articles on his webpage about how Bwog considers AP one of the best classes at Columbia; he will crack a joke or two about his past life as a developer. \n\nDo not fall into this trap that you must take more courses with him. LEAVE. As that guy in Get Out said, GET OUT!\n\nHere are some immediate red flags that should tell you to leave: \n\n- In the first lecture, he led with \u201cyou\u2019ve probably read some bad reviews about me.\u201d \n- \u201cYou might not do well even if you try hard\u201d - a quote from his syllabus powerpoint. \n- He beefed with Hillary Clinton over some blackboards. Remember the last guy who publicly beefed with Hillary Clinton? Look what happened to him. \n- He continuously has to justify the difficulty of his course (mostly after every exam or an exceptionally hard homework) by citing papers he wrote, carefully selected student \n  reviews. \n- About 15 minutes before the second midterm, he emailed the entire class listserv a screenshot of text messages with his OWN SON who was taking AP as well. In these \n  messages, his son was lamenting about how hard one of the practice exams were. After this screenshot, Jae wrote a \u201cgood luck\u201d message and signed off on the email. Diving \n  into the thought process by this psychotic action, he probably wanted to convey \u201chey even my own son thinks my course is hard. Don\u2019t worry about that much.\u201d What it ended \n  up coming off as was \u201chah lol my son is struggling with exams I WROTE lemme expose him to a group of 650 classmates.\u201d\n\nThis course is a hurdle that every CS major has to get through. Climb, fumble, collapse, or jump effortlessly over this hurdle and do not look back! On the bright side, I know entire friend groups that formed during AP over the sheer collective trauma. You will leave this course with some new comrades to swap war stories with over a couple of cigars. You\u2019ll never see CS majors be more social than when the AP Lab is due. \n\nTo finish off this review, I'll leave a quote from his first lecture powerpoint: \"Please don\u2019t get stressed out about AP.\" \n\nI did. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 139,
+        "funny_count": 46,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 84199,
+        "submission_date": "2023-11-02T20:47:52",
+        "workload": "- 7 homework assignments called labs which take north of 10 hours to complete on average. Your lowest lab is dropped and the other 6 are compiled to 25% of your overall grade. \n- 3 exams worth 25% of your grade each. These are hard, tricky, annoying, dumb, intuitive, useless, and a slew of other adjectives. You almost always don't have enough time to do them. Averages vary. Exams are graded and returned very quickly. \n- This course is very tightly scheduled and has an exorbitantly fast pace. If you fall behind by more than 2 weeks, consider P/Fing the course or dropping it entirely. It is extremely difficult to catch up. \n\nDon't take this course with other hard courses. Try to lighten your load the semester you plan to take this class. It is not for the weak-willed and the faint of heart. There will be many tears. There will be much sorrow. Many will tell you this course \u201cisn\u2019t as bad as people think.\u201d I implore you to look up the definition of survivorship bias. Lecture notes are uploaded to the webpage, so don\u2019t feel compelled to take copious notes. Focus on understanding. This starts at lecture 1 and does not end until the lecture before the final. \n\nI barely went to OH though. The TAs in this course definitely know what they're talking about content-wise but they're actual advice for doing well in this course is subpar at best. For example, a TA emailed us a practice exam problem, citing that we should be able to complete it in under 50 minutes. During the practice problem review session, it took the TA 1 hour and 20 minutes to complete the problem. Moreover, there was repetitive emphasis on \"drawing it out\" which I found to be garbage advice. For one, you only get 75 minutes for two-three fairly difficult questions. Spending time to draw everything out is wasting precious time to actually get to the right answer. "
+    },
+    {
+        "agree_count": 55,
+        "content": "Jae is a God. No, not just a god, he is a Three-Wolf-Moon shirt on steroids. Not only does he know his stuff, he knows how to teach it. Granted, this was the hardest class I'd ever taken in my life, but the long hours of work and sleepless nights have made me into a better programmer and students. \r\n\r\nThere is a reason as to why people were basically begging him to revive the Data Structures in C class and teach it also; he was just *that* good. The classes were engaging, he would answer any question and repeat things as necessary, and really wanted to stress it all so we would understand, even if we had to go through  it multiple times. \r\n\r\nThe most lovely thing about this class is the listserv; through email, all students in the class could give advice and help each other on the homework (code-free of course!). \r\n\r\nWriting your own web server was daunting but once you're done, you'll be amazed at what you've been able to accomplish. He is professor material, for sure. Columbia, be smart and make him a prof with automatic tenure; our Computer Science department needs more wonderful people like him. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 62,
+        "funny_count": 26,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 22993,
+        "submission_date": "2009-06-26T18:24:15",
+        "workload": "10 labs, 1 optional and for use as a make-up. Start the labs early; they take hours and days to finish. No midterm this semester but others have been different. Prepare for a butt kicking in the final. \r\n\r\nMultiple TA's are available to help you with your homework; the office hours are worth every minute!"
+    },
+    {
+        "agree_count": 0,
+        "content": "Before I continue with my review, I should mention that I took this class while also enrolled in CS Theory and Fundamentals. I strongly advise against this combo!\n\nJae is a funny, knowledgeable professor with a vivid passion for what he teaches. I would also argue that he is a very effective lecturer. \n\nThat being said, he seems disconnected from what students actually experience and learn in his class. Yes, this is a competitive school, and we expect top-notch education, but the brutal exams and harsh grading rubrics will almost certainly demotivate even the most determined student who truly wants to succeed in this class and stay passionate throughout the semester. Many students believe his exams simply require attention, but beyond that, you need to masterfully apply every tool you\u2019ve been exposed to, deeply analyze complex code under pressure, code on paper with precision, and navigate the provided materials for useful information.\n\nThe grading system adds to the challenge by offering little to no partial credit. Although the labs demand an extensive amount of time, they are entertaining and helpful for grasping the concepts on a surface level. However, they don\u2019t prepare you for the depth and rigor of the exams. While some lab content does appear in the exams, the labs are far less useful for exam preparation than Jae suggests. \n\nOverall, I\u2019m left unsatisfied with the course and feel I\u2019ve learned nothing particularly useful. It\u2019s disappointing, especially considering this is a 4-unit mandatory course requiring significantly above-average effort. I\u2019m expecting it to destroy my GPA.\n\nFriendly advice for those still determined to get an A: train yourself daily by following tutorials on YouTube or rewatching sections of his lectures. If you have the luxury of time, use it consistently and deliberately without overworking yourself\u2014 exams will appear significantly easier. But is it really worth it?",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 2,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 2,
+        "review_id": 86105,
+        "submission_date": "2024-12-19T14:57:04",
+        "workload": "25%: 7 labs + 1hw, 25: midterm 1, 25: midterm 2, 25%: final\n\nExam grading will traumatize you more than your ex. Zero room for error. PUT THE DAMN SEMI-COLON AT THE END!"
+    },
+    {
+        "agree_count": 2,
+        "content": "Jae is only good with people who do well. If you don't do well, he has no sympathy for you and he will NOT help you in anyway. He only claims that you do the homework then you'll be fine. However, even his TAs claim that often times the exam has things not in the homeworks. He gives two midterms, which adds up to the pressure. He is very mundane. His lectures are fine but exams are pretty random.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 5,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 2,
+        "review_id": 85403,
+        "submission_date": "2024-07-30T20:02:32",
+        "workload": "Assignments were fine but irritating because a lot of TAs in his class are unhelpful because he tells them to not help us as much."
+    },
+    {
+        "agree_count": 6,
+        "content": "Jae and AP have a lot of negative hype surrounding them but I honestly really enjoyed this class. The tests are very challenging, but they do force you to really understand the material extremely well, and so I would say are worth it (vs being hard for no reason). Jae is a great lecturer, the TAs are helpful (especially their pre-exam review sessions), and if you are willing to put in the effort, you will end up learning so much. \n\nI think I especially appreciate Jae and AP when I compare them to Data Structures with Dr. B. \nData Structures may be an \"easier\" course, but I found it to be confusingly structured, and created a sense that even after completing all the assignments with good scores, I'm not 100% sure what exactly I learned. In comparison, AP is incredibly well structured - super clear progression of assignments, and Jae is a skilled lecturer who breaks all the concepts down in a logical way. \n\nFinally, it was really considerate of Jae to completely cancel our final exam with everything going on on campus.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 2,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 85272,
+        "submission_date": "2024-05-08T02:50:10",
+        "workload": "25% 7 \"lab\" homework assignments\n\n75% 3 midterm exams, graded exactly to the rubric - you will get points off for mispellings, dropped punctuation, etc. Significantly harder than the labs, but sample exams are provided which makes them straightforward to study for"
+    },
+    {
+        "agree_count": 7,
+        "content": "I went into AP thinking this would be the hardest class of my entire life. Granted, it was. However, the fear-mongering is what really gets you in AP. Exam 1 I did really well because everyone ingrained in me the importance of pointers. By the time exam 2 rolled around, I was overly confident. I started slacking off and attending fewer lectures. I didn't pay as much attention to the importance of memory in C (which is really really important). I got significantly worse (3x worse than exam 1, to be exact) on exam 2. However, one thing Jae does that's very clear is that he definitely wants you to do your best. He tells you upfront what he expects from you and his TAs have multiple hours for you to ask questions.\n\nHonestly, AP isn't too bad if you just attend the lectures and try to understand the basic concepts (everything builds like crazy).",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 3,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 85217,
+        "submission_date": "2024-05-02T19:45:47",
+        "workload": "3 exams. 1 was canceled due to the protests/campus lockdown (thank you, Jae <3). There are 7 labs, each one due around every 1/1.5 weeks. Labs 1-3 are fairly easy, 6 killed me. He gives NO partial credit, so just be overly confident in whatever you write down."
+    },
+    {
+        "agree_count": 2,
+        "content": "I took this class Fall 2023. Jae starts out as a great lecturer, but as soon as he leaves the chalkboard and goes to just reading off code the quality of his lectures greatly decrease. His talking about code style lectures were actually hard to sit through, and turns out by the end only about 50/200 people actually were sitting through them. \n\nHe is also very non-emphathetic, even in the most desperate of times. His first exam was scheduled for October 12th, which you may recall was five days after the terrorist attack in Israel, and the same day as the first, biggest protest on campus. Many people were experiencing intense emotions that day. He should have moved the test, as it was an extenuating circumstance that without a doubt warranted some kind of action. His policy if you have to miss a test for medical emergency reasons is also abysmal: he will calculate your grade based off your other two exams. By not offering a makeup exam, Jae restricts anyone who is having a medical emergency and hasn't done well in the course from making up their grade at all. This just seems unfair and also not necessary. He has a billion TA's. Write a third exam. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 4,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 2,
+        "review_id": 85183,
+        "submission_date": "2024-04-29T02:31:49",
+        "workload": "Overall, this class was hard, but not nearly as hard as everyone claims that it will be. It is mostly made difficult by Jae's intensity that he brings to each assignment and exam. He actually just needs to take a breath and realize that AP is not our lives and nor should it be his. If he would just calm down a little this class would be hard, but not the anxiety-producing thing he makes it. "
+    },
+    {
+        "agree_count": 5,
+        "content": "If you're taking this class you probably do not have a choice. Overall, I would say this class is not as bad as people make it out to bed, personally I really enjoyed it but even for the people who did not there are a ton of support and resources. Jae is a good lecturer (in my opinion) and the lectures were recorded, the lecture notes were good, there a ton of office hours, listserv responses are rapid, and there are review sessions. \n\nIt can become a bit of a lifestyle just because of the hype but that does mean you get lots of sympathy whenever you mention you are working on AP. Don\u2019t get me wrong, it is a hard class.\n\nThe review sessions led by TA\u2019s vary in helpfulness. Personally, I found the ones before Exam 1 extremely helpful for the exam (they covered exam questions that were not covered in the given exam review) but the ones before Exam 2 less helpful. \n\nThe biggest downside I would say is that Jae can come off as hostile to students asking for accommodations. Personally, I had to have ODS reach out to Jae before he would approve my accommodations and he required special conditions I have never had for a class. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 1,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 84939,
+        "submission_date": "2024-04-08T22:14:50",
+        "workload": "Seven Labs and 3 exams all out of 100 points. Each exam is worth 25% of your grade, homework all together is also worth 25%. \n\nThe averages exams across all three and the two sections were between 46 and 66 with the median between 49 and 69. One section did consistently higher than the other, but distribution is calculated within your section.  \n\nThe homework averages were much higher. \n"
+    },
+    {
+        "agree_count": 15,
+        "content": "Horrendous awful class!!! I know you have to take it if you're a CS major or minor and you totally can and will get through it. That being said, be prepared for this to be one of the hardest classes you ever take. People tell you it's not that bad but it legit is. Start on the labs EARLY!! The lectures are interesting enough, I would recommend going and not do NOT fall behind. Jae is very unaccomodating about hw and exams so you better be on your A game. Also, DO NOT CHEAT! Jae takes cheating very seriously and sent an email at the end about it, urging everyone who cheated to come forward. A bad grade is better than the consequence for cheating. Overall, just a really hard class but you can do it!",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 5,
+        "funny_count": 3,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 2,
+        "review_id": 84608,
+        "submission_date": "2023-12-30T00:03:33",
+        "workload": "7 homework assignments, 3 exams. Exams are worth way more than the homework though. Study your ass off for those."
+    },
+    {
+        "agree_count": 6,
+        "content": "Really enjoyed this class! It's not as hard as everyone make it out to be as long as you put in the effort. The TAs are amazing and Jae is such a good professor as he explains things very clearly. Learned a lot. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 4,
+        "funny_count": 1,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 84580,
+        "submission_date": "2023-12-23T13:13:33",
+        "workload": "Last assignment took a long time but the rest were fine"
+    },
+    {
+        "agree_count": 3,
+        "content": "Oh boy, did I hate this class more than anything in life. His grading is absolutely unfair. No leniency at all. Exams are vile, extremely difficult and unclear of what is being asked given you can\u2019t ask anything during the test. Content wise, the things learned is good but the C language itself isn\u2019t much needed in Columbia cs, so idk why using C language had to be so miserable. The concepts are important but perhaps a different language would\u2019ve made it more tolerable. I hated it would not recommend. Run ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 5,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 84516,
+        "submission_date": "2023-12-16T02:52:22",
+        "workload": "Exam 3 x25%. Homework 25%\n"
+    },
+    {
+        "agree_count": 6,
+        "content": "On the first day of the course, Jae said that this class is the class that makes you a programmer. Coming out of it I couldn't agree more. I took Intro to Java and Data Structures with Professor Blaer, who was great, but Jae's Advanced Programming is an experience that I feel is necessary for every Columbia CS student. Every single lecture is incredibly informative. Every homework assignment leads to the next. The exams are incredibly complex, impressive, and directly related to lectures and assignments. The course overall is perfectly planned from start to finish. Every single aspect of the course is important and informative; nothing is wasted. Throughout the semester, I could tell that Jae genuinely cared about students' experiences. Advanced Programming has that 'weed out' reputation. But it's what you make of it. If you attend lectures, make an attempt to digest the information given to you, and do your assignments, then it will be a class that truly turns you into a programmer. Take. This. Course.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 84413,
+        "submission_date": "2023-12-08T01:03:12",
+        "workload": "Three midterms equally weighted, no final exam. 25% each.\n7 programming PSets, drop the lowest. 25% total."
+    },
+    {
+        "agree_count": 9,
+        "content": "Some classes are chaotic evil. Such classes have no slides, arbitrary grading, and no structure. Some classes are neutral evil, as in having boring professors, useless info and esoteric material. This class was lawful evil. Jae is a good professor, and his work is hard. But it is rewarding. I think I learned a lot.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 1,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 84386,
+        "submission_date": "2023-12-06T02:25:50",
+        "workload": "Six labs, three exams but no \"final.\" Graded strictly but overall fairly. Each lab takes around three to five hours."
+    },
+    {
+        "agree_count": 4,
+        "content": "Oh Jae LEE. I came into this class thinking alright well this is a requirement so im going to have to take this for the CS major. This class is indeed a weeder course. To preface I did well on the homeworks in Data Structures with Blear but this class is 100 times more difficult. I did not the best in the exams for data structures so those scores only got worse in AP. If you did poorly on the exams in Data Structures and are not good at taking exams I would not take this class. I am now switching to Information Science which is simular but does not require AP. This prof probs thought I was stupid and is very judgemental but I simply am dyslexic and tests have never been my thing. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 84255,
+        "submission_date": "2023-11-14T23:52:20",
+        "workload": "3 exams and like 7 labs"
+    },
+    {
+        "agree_count": 7,
+        "content": "I had experience working with the C and C++ languages working as a software engineer before taking this course, and I honestly LOVED this class, but I can see why there are so many complaints from prior students who have little to no programming background. C is a tough language, it's brutal and unforgiving, the exact opposite of python.  For me, the labs were not so bad because I had a good familiarity with C , git and Linux/UNIX fundamentals, but to those poor souls who had never seen C before, I can understand why this course is so challenging for them. Honestly, the first 2 or maaaaybe 3 labs were not so bad, but judging the difficultly from the perspective of someone who went in into the material \"cold\" with no C experience, I can understand why so many students leave negative reviews of this course. \n\nMy only major complaint about this course were the exams. They are deliberately made to be so incredibly challenging that you have to ask yourself why they are made to be so difficult. My educated, (conspiracy theory?), guess is that the exams are there simply to bring down the class average. That's literally it. That's all the exams exist for! Seriously, I'd roll my eyes as I read through the exam questions, almost laughing to myself at how ridiculous and \"try hard\" some of the questions were. Not all the questions were that bad, but some of them, c'mon, seriously?!\n\nIf you plan on working as a software engineer in the future and don't do well in this course, don't let your performance in this course make you feel bad. School is nothing like the industry, especially AP. This course does teach you a LOT of valuable things, but it's not at all representative of the industry. Learning C will make you a better programming, no doubt, and I can see why the professor designed the course as he did but if you didn't do well, don't let that get you down. Just try your best and move on.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 3,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 84200,
+        "submission_date": "2023-11-03T04:10:19",
+        "workload": "Programming lab assignments, exams, the usual."
+    },
+    {
+        "agree_count": 13,
+        "content": "This class is not as bad as everyone makes it out to be. It's largely based off of the books, \"Advanced Programming in the UNIX Environment\" and \"The C Programming Language\". If you really want to get ahead, you can skim these books and do a few of the exercises. You are not expected to know C or UNIX prior to the course, but if you want to do well, I'd highly recommend reviewing the aforementioned books, although Jae's lectures generally do a good job of explaining the material.\n\nThe programming labs in this class are excellent, they follow a steady progression, as each lab builds off the last. If you pay attention in class, read the book, meet with the TAs to clarify concepts you're confused on, than generally, you'll be fine. Yes, the more you progress through the course, the harder and more time consuming the labs become. A few tips for doing well: always test your code before submitting it, and START EARLY! The TA office hours are packed to the brim a few days before the lab submission is due.\n\nThe problem with this course are the exams. They are far, far too difficult and challenging, even by Columbia standards. Regardless, if you make a good effort to study the practice exams and know the content, you'll probably do well.\n\nOverall, I'd recommend taking this course at the end of your time at Columbia, if you're worried about your GPA.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 29,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 84060,
+        "submission_date": "2023-07-02T20:01:33",
+        "workload": "7 labs\n3 exams\nThe time spent can be a lot. Plan accordingly."
+    },
+    {
+        "agree_count": 10,
+        "content": "What is there to say about AP that has not been said already? This class is very hard. The material was only slightly harder to grasp than Data Structures but the workload was about 1.5 times as large.\nJae is an excellent lecturer. He is very efficient in class and doesn't go off on tangents. You will learn the material if you put in the effort, he isn't out to trick or 'get' you.\nJae is very serious about cheating so definitely don't try any of that, look him up on Reddit if you do not believe me.\nOverall, you cannot avoid the class as a CS major/concentrator so you're going to have to take it anyway. The class isn't easy and is very annoying and frustrating at times, but is extremely well put together and taught.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 8,
+        "funny_count": 4,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": null,
+        "review_id": 83126,
+        "submission_date": "2021-04-01T00:00:00",
+        "workload": null
+    },
+    {
+        "agree_count": 2,
+        "content": "Professor Lee is a great lecturer. But this course is notoriously brutal. \nThis class is designed as a conjunction from the C programming language to advanced things such as operating systems and computer networks. So if you ask what I learned from this class, I'd probably say, nothing? Mmmmm, not really, a little bit of everything: OS, TCP/IP, database, etc. \nJae did really good in lecturing, and it's quite amazing how he just linked all this \"everything\" together. I don't need to explain this point since this is basically a consensus from everyone. You will like his lecture and learn a lot here! \nBut, the bad thing about this course is grading. Nobody wants to spend more than 25 hours a week on this class and only got a B, right? What you learned matters, for sure, but how much your input and what the GPA is also matters. I just can't understand why Jae does not really see this point. I almost spent half of my study time studying this course, but what I am expecting is a B/B-. I just keep on saying that it doesn't matter, at least I did learn something. But the reality is that the grade was, is, and will be harsh. \nJae said, yes, somebody learned this in advance, and they will surely do better and get better grades, though he doesn't encourage people to do so. So the unfair part of this course is, it doesn't award hard work, it awards knowledge. If you learned this, never go to the lecture, did everything perfectly, and you will get good grades. If you learn this the first time, you are not likely to end in A range anyway. \nI am just a normal guy, who never learned CS in high school and expected to study hard and do well in college. I just don't understand where all those crazy guys come from! They seem to know everything already! I want to get good grades as much as those guys! If every class in Columbia is designed like this, I guess I will never find a job with my GPA. Grade fxxking matters! Why can't he just curve the grade slightly better! \nI literally feel sick about how harsh the grade curve is, and it DOES NOT FAIRLY represent my efforts in this class! But lucky as I am, Covid 19 allows me to PDF it. \nWith regard to whether or not you should take this class, I mean, CS guys don't really have a choice? Right? So good luck with it!",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": null,
+        "review_id": 83125,
+        "submission_date": "2021-04-01T00:00:00",
+        "workload": null
+    },
+    {
+        "agree_count": 2,
+        "content": "As someone who had no programming experience before college, I was worried about being weeded out by AP ever since I got into Columbia. Despite its difficulty, I\u2019m pleased to say that AP with Jae has only reaffirmed my passion for CS.\nJae is fantastic. He cut out the C++ content and labs 8-10, which made the course far more manageable. His lectures were clear and I never felt lost. And even though he puts on a serious face in class, he\u2019s actually really cool and hilarious if you get to know him at the Hackathon. All the TAs in Spring 2021 were extremely patient and helpful, which was assuring given that the TAs in earlier CS classes were often hit or miss.\nThe course is still a rigorous step up from the toy programming in Data Structures. After all, pointers, memory allocation, and network programming are naturally tougher topics. However, AP isn\u2019t the weeder that it was (and probably still is) known for. It\u2019s true that the labs are longer, but Jae also gives plenty of hints during class, so you should always have some kind of entry point for each project. In addition, the specs are so detailed that you can guarantee yourself a perfect score every time.\nI took the class when the exams were still online. They\u2019re still the hardest part of the class, but I noticed that they were more similar to the labs than a lot of the sample paper exams were. This is probably why Jae always said you\u2019d get the most out of the labs if you did them all by yourself, and I would agree with his assessment. Yes, it sucks to stay up until 3am figuring out where your program is going wrong. But once you debug the error, your brain will be tuned to avoid repeating the same mistake in the future. You just can\u2019t achieve the same effect if you rely on the TAs to fix everything for you. If you don\u2019t go through that process yourself, you\u2019re going to struggle on the exams.\nAs for grading, I thought Jae had one of the most forgiving curves ever. For a \"weeder\" course, it\u2019s difficult to fail; the C- cutoff this semester was 12.456. It seems that the only way you\u2019ll fail is if you cheat or barely put in any effort.\nTL;DR: It\u2019s a great class and there\u2019s nothing to be scared of. Don\u2019t cheat, start the labs early, and you\u2019ll likely be fine.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": null,
+        "review_id": 83124,
+        "submission_date": "2021-04-01T00:00:00",
+        "workload": null
+    },
+    {
+        "agree_count": 19,
+        "content": "The single worst academic experience I have had at Columbia. Jae turns his course into a lifestyle; expect to receive emails 24/7 (and not just from the listserv\u2014 he emailed us the day after Thanksgiving telling us to get back to AP) and to dedicate hours of your life to his labs, all while resisting the urge to Google your questions. Furthermore, Jae is not approachable whatsoever, and I found him rather arrogant and condescending. Final grades are not curved nicely, and are not indicative of how much you learn. However, to Jae's credit, his TAs are very good, and his teaching is decent. He is incredibly polarizing, as the below reviews show, and some people do like him.\r\n\r\nI wondered who hurt Jae, but it turns out it was none other than his own experience as an undergraduate at Columbia. I sure hope I don't turn out this cynical by the time I graduate...",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 6,
+        "funny_count": 1,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 81886,
+        "submission_date": "2020-02-02T02:21:02",
+        "workload": "Insanity. You'll lock yourself in your room for 12 hours and code every week. Twice as many assignments as Data Structures, each of which are much more difficult and time consuming.\r\n\r\nI want to take OS, but I'm going to take it with Nieh, even though I heard it is harder. I just don't want to deal with Jae ever again."
+    },
+    {
+        "agree_count": 0,
+        "content": "Let me start off by saying, I'm not someone who naturally \"gets\" things and prior to this point, I had never even gotten above a C in any exams I've taken for a CS class. That being said, I managed to get an A- in this course and my goal is to hopefully not come across like I'm bragging but just to make everyone who's currently doubting their abilities heading into this course feel a little more confident in their potential to succeed.\r\n\r\nObviously all the reviews agree that it's hard, but it's up to you whether you want to treat it as a 'lifestyle' or not. I usually started the homework a couple of days before the due date (except for HW7) and got around the median each time. I think the two things that really helped me were the videos they uploaded on YouTube and rewatching the lectures but at twice the speed. Counterintuitively, as someone who really has trouble focusing in class, this forced me to pay attention since it gets rid of the little pauses where I would accidentally zone out. \r\n\r\nMaybe you'll like the listserv format or maybe you won't but either way, you're probably going to be stuck with it so use it to your advantage. It makes me nervous to ask questions anonymously, let alone in an email to everyone in the class, but it was helpful to go through each of them prior to the midterms and final and seeing whether I could answer in my head similar to how the TAs would answer each question.\r\n\r\nI would say you don't have to start reviewing super early for the exams (although like in all classes, the more time you leave to review the better your chances), you're the person who knows you the best so just leave yourself enough time to be able to go through the sample exams and ask questions to the TAs in person if you have any.\r\n\r\nI hated hearing the TAs say this, but the exams really are just basically like puzzles and it's a combination of luck over whether it covers your strengths and how much time you dedicated studying and absorbing the homework in general. Regardless of the amount of importance it might promote on itself, AP is still just a class in the end. I wouldn't be surprised if there were a couple of super freshmen in the course, but most of us have been here for at least a year now when taking it so just try your best to learn from your mistakes or successes in your previous courses and you should be ok.\r\n\r\nAnother very important thing to note, Jae won't fail anyone unless you cheat so if you start thinking about cheating because you're afraid of failing the course then know you would be so much better off just taking the L instead of receiving the cheating email at the end of the semester.\r\n\r\nGood luck!",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 81820,
+        "submission_date": "2020-01-15T22:32:01",
+        "workload": "same as in other reviews"
+    },
+    {
+        "agree_count": 1,
+        "content": "The appropriate title for this course is not advanced programming, but petty programming. \r\n\r\nThe emphasis of the course is on trivial details of tracing code, pointers, syntactical sugar, and sockets programming. You end up learning a good deal of C/C++, and forgetting the same content in a matter of months. The lectures are clear, TA's are incredibly dedicated, and Jae cares a great deal, but the focus throughout the course is frankly petty. It's disappointing that so much talent and energy is dedicated to details that should be taken for granted. \r\n\r\nFurther, the culture of the course promotes stress. This is just a class, not a lifestyle nor groundbreaking or even inspiring. People need to be more relaxed and organized with the course. The use of ListServ for emails, coupled with CLAC to complete assignments, and detailed assignment statistics generate a false impression of over importance. The labs focus on implementation of boring and detailed tasks, the exams + lectures focus on the same boring details.\r\n\r\nIf you do the assignments, complete all the practice exams, and understand the notes, it is a standard-hard course. Exam questions can be challenging, and focus on often overlooked details (everything including the Makefiles are fair game). Don't cheat, you will be caught and you deserve the consequences. At the same time, the course's obsession is part of its culture and content emphasizing the petty.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 81397,
+        "submission_date": "2019-05-23T20:10:43",
+        "workload": "9 Labs (Initial labs take 2-3 hours, tougher labs take 7-10 hours, lab 7 is very time consuming) + 2 Midterm Exams (1st Exam is Easy, 2nd Exam is Difficult) + Final Exam (Fair Difficulty) + Schedule ample time to prepare for exams in advanced and begin working on difficult labs quickly. "
+    },
+    {
+        "agree_count": 0,
+        "content": "Y'all need to get over yourselves.  Anyone who's had an internship or real world experience knows that coding just takes time to learn, and it can be very painful in the beginning.  Jae isn't hateful; he's just realistic.  He's been on the other side, and he knows that your boss isn't going to hold your hand on the job and make sure everything's okay.  They're going to expect you to be a self-starter and learn things on your own.  Welcome to the real world, kiddos.  If you don't just \"get it\" because you're A) bad at logic B) you had good training coming in here or C) you're not extremely stubborn, maybe you just aren't cut out to be a professional programmer.  This is what adulthood is like.\r\n\r\nOne time a friend came up to me and said \"Jae's tests are hard.\"  Have you guys actually tried to build anything in the real world?  Engineering is just like that; shit breaks and you have to fix it.  You can't care about your feelings; you just have to make it work.\r\n\r\nAlright, I've done enough tearing into you guys.  Take this class seriously, and you'll learn a lot.  Most importantly, you'll learn how to hold yourself accountable and have high standards.  You'll get eaten alive in the competitive world of software without that kind of attitude.  Jae Woo Lee is one of the most practical professors I've had at Columbia, and I'm glad I got knocked off my high horse by him and learned some perspective.  If you take OS, you'll truly begin to understand how deep and impressive a good programmer can be.  Consider yourself initiated once you've been through all this.  And if it's not for you, that's okay.  Don't blame Jae.\r\n\r\nI'm a much better programmer thanks to this class.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 80672,
+        "submission_date": "2018-02-19T07:35:50",
+        "workload": "See other reviews.  Learn pointers and memory; that's the key part of C you don't have to deal with in Python, Java, Lisp, etc."
+    },
+    {
+        "agree_count": 0,
+        "content": "This course is not easy, and Jae will not hold your hand. He will expect you to keep up and master everything that he covers in class. Do the readings as they're assigned, at least the required ones; if you don't, you will most likely fall behind.\r\n\r\nJae's lectures go by quickly, so make sure you take notes quickly or have recordings for backup (usually if you ask the listserv for recordings, someone will have one). You want to use a combination of hand-written and typed notes because he talks fast and writes a lot of code and diagrams on the board.\r\n\r\nThe labs are not terribly difficult but they can take time if you want to make sure your program(s) work exactly as instructed.\r\n\r\nThe exams ... oh boy ... The averages are typically in the 40s-50s, with even lower medians, but the curve is generous (but not that generous). In Jae's words, \"if the average is a 40, then a 50 is good\" (but of course it's not). Aim for a 60-70 exam average for an A- and 75+ exam average if you want an A (assuming your labs are perfect or near perfect). The exams account for 75% of your grade, so they're a huge part of your grade.\r\n\r\nThe TAs can be a mixed bunch, so choose your favorite(s) and they will help you succeed on the labs.\r\n\r\nIf you want to do well in AP, I suggest you\r\n- allocate 15-20 hours a week for it; if you feel like there's nothing left to be done for the week, you're wrong.\r\n- take a good set of lecture notes (Jae's notes are just a skeleton); review them regularly\r\n- do and REDO every one of Jae's practice exams - this is critical!  You should ask a friend to grade them (if you have friends).\r\n- go to office hours regularly - you are bound to have questions while studying. Each week, I collected a list of questions to ask the TAs or Jae.\r\n- talk to the TAs about the labs. they will give you hints. More often than not they will indirectly tell you exactly what you need to do or how to approach a problem. Ten minutes during office hours can save you hours in the library.\r\n\r\n\r\n\r\n\r\n",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 80600,
+        "submission_date": "2018-01-12T06:02:54",
+        "workload": "10-20 hours a week, depending on the difficulty of the lab and amount of reading assigned. Not terrible if you use your time efficiently.\r\n"
+    },
+    {
+        "agree_count": 0,
+        "content": "This is the best class I have ever taken at Columbia so far!\r\nAs you'll learn if you take the course, AP is a programming class with a narrative, and Jae constructed the syllabus carefully. It's nice to have a professor who cares so much about the class and the students. He hosts a hackathon with food and the only chance of the semester to work with friends on a homework. Jae is a great lecturer. GO TO LECTURE and ask questions!\r\n\r\nThe homeworks are called labs, #1-10, and are worth 100, 120, or 150 points each. Pay careful attention to the homework instructions, they are very specific and graded exactly to homework specifications. Best advice is to go to lecture, go to the review sessions, and start the homework early so you can go to office hours before they get super crowded near the homework deadline. If you do this you should be able to get good grades on all the labs. \r\n\r\nJae is a stickler for academic honesty/no cheating, and it was both the most stressful (when asking friends for help and not wanting to cross the line) and the best part of the course. Since you have to do essentially every part of every lab by myself (besides TA help) my confidence in myself as a programmer grew a ton with every lab.\r\n\r\nThe exams are ~very~ hard, yet doable. If you stay on top of the material, start reviewing early, and understand what you are programming you can do well. The questions require clear knowledge of C fundamentals, and exams often include at least one question that is incredibly complicated. Exam questions are pretty similar to the types of questions on the sample midterms/finals.\r\n\r\nI heard a lot of hype about how horrible and difficult AP was before I took the class. Don't let that scare you, it is totally possible to do well and have fun in this class!\r\n",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 80498,
+        "submission_date": "2017-12-24T01:50:08",
+        "workload": "10 homeworks, called labs. 100, 120, or 150 points each. everyone is forced to get 0 on one lab, whichever grade is the least raw points. worth 25% of total grade\r\n2 midterms - 1st is 20%, 2nd is 25% of total grade\r\nFinal - 30% of total grade"
+    },
+    {
+        "agree_count": 1,
+        "content": "DO NOT take this class unless you're a CS major and are required to. \r\nThis is absolutely the worst class I have ever taken. \r\nJae Lee is is a horrible teacher.  \r\nBesides being extremely disorganized and random in his lectures, he is arrogant and rude towards his students. You will honestly learn the material better by going through the TA's recitation notes and going to the TA hours. \r\n\r\nLearning C and C++ is beneficial to anyone wanting to work in a CS-related field, but Jae insists on forcing students to memorize very specific syntax of functions, and \"punishes\" (his words) those who can't regurgitate the exact code on paper. Frankly, most of us found it ridiculous.\r\n\r\nThe midterm exams are insane. The median is usually around the 40's-50's.  This should tell Jae (and Columbia) that his course is awful and is failing the students, but we all realized Jae takes some kind of sick satisfaction in teaching \"the hard course.\"\r\n\r\nJae also has this weirdly extreme obsession with cheating. This isn't exaggeration; he is constantly on a delusional witch-hunt for anything remotely close to what he considers cheating. Supposedly, he runs all written code through a program that compares your code to EVERY SINGLE SUBMISSION FROM THE PAST 5 YEARS. There are 3-400 people in the class per semester. Meaning that many people's code will match someone else's somehow, and if you deny it, he starts a full investigation. \r\n\r\nHow this sadist is still allowed to teach a required course for a major, I will never understand. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 80256,
+        "submission_date": "2017-11-15T03:32:17",
+        "workload": "Ridiculously time-consuming, and REALLY does not prepare you for the almost-impossible exams."
+    },
+    {
+        "agree_count": 0,
+        "content": "In terms of material learned, this is an excellent course and I left the course feeling I had a great understanding of C/C++ and an improved understanding of programming in general. Jae is very generous with his curve and 55 points (of total course points) ended up a B. I read the text, watched videos on Lynda, and went to TA OH and found the labs totally doable but EXTREMELY time consuming. With Lab 7 probably taking me 20 hours to complete. The short answer/long answer midterm exams were (I assume) intentionally impossible with class medians hovering around 45. The final was fill-in-the-blank, multiple choice, true/false so was much much easier. Jae will send you practice exams. Do all of them. One of the hardest things about his exams is the way he words his questions and attempts to trick you, so practice exams help. \r\n\r\nAs an instructor...I found Jae to be too disorganized to learn from and preferred to study with my own materials. Pedagogically he was, honestly, a nightmare, a nightmare barely concealed sadist. and sometimes would send emails that told students they must \"suffer\". He also uses language like \"punish\" when speaking of how he likes to \"punish students who don't do ____\". Before he announces his miserably low medians, sometimes he will laugh for an extended period. etc. I found his teaching style completely creepy. And encourage Jae to get out his sadistic impulses in a more consensual environment. My friend told me some students thrive under these types of psychological tactics and are pushed harder. not me. and not many, many students I know. He is the only professor who teaches this course. So try to let his bizarre, upsetting, behavior roll of you. You will learn a lot. Just ignore Jae.\r\n\r\nAlso, don't cheat. Just don't. Jae is known to be obsessed with finding cheaters. And if you get caught, I have heard it is extremely unpleasant.\r\n",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 80098,
+        "submission_date": "2017-06-02T14:49:08",
+        "workload": " heavy. but as long as you don't procrastinate, completely doable. Others have written more on coursework break down below. \r\n\r\nALWAYS check that your program compiles in your submit directory! ...or automatic zero :("
+    },
+    {
+        "agree_count": 0,
+        "content": "AP is a very good and well-organized class. Labs are not too hard but tedious and the instruction in the lab is sometimes not clear. Exam is not that hard. Don't listen to the rumor, you can ace the exams if you really understand the material inside out. \r\n\r\nJae's teaching is clear and to the point. However Jae is a terrible human being. He is disrespectful to some students even though some of them are already working and have possibly accomplished much more than Jae in other fields. \r\n\r\n",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 80014,
+        "submission_date": "2017-05-12T21:01:13",
+        "workload": "Pretty heavy. 10 easy labs. 3 exams "
+    },
+    {
+        "agree_count": 0,
+        "content": "Disclaimer: AP has been my favorite class at Columbia. \r\n\r\nThe word around the street is that Jae is not as good in OS as in AP but I think people who say this are being unfair. Kernel hacking and OS theory are by nature tougher beasts. There is no easy way to approach the material without severely watering it down. I found AP to be more enjoyable but only because I never felt lost. Yes there were some frustrating debugging moments but I always knew the path the success. OS was different. I felt completely and utterly lost multiple times while doing the hws. I questioned my love of coding, my humanity and my sanity, all while cussing out this class and the kernel documentation. Jae thrusts you into the wild with just the basic necessities (the roadmap for HW7 was generous and appreciated) and we were forced to find our way home. Some can consider this bad teaching. I think of it as tough love. It was necessary to push you to the next level. AP was for teenagers, OS is for adults. Once I became more comfortable with the kernel and its ways (around HW7), I found the class just as enjoyable as AP. Overall, great experience. I only refrain from ranking OS among my favorite courses since I am pretty sure it gave me PTSD. Maybe in a few years I will look back at OS with endearment. \r\n\r\nThe tests....They are much worse than AP's... coming from a guy who got 100 on the AP final. The T/F and multiple questions are really impossible to prepare for. Although the curve evens it out, I think it doesnt give students who've mastered the material a good opportunity to shine. \r\n\r\nIf you loved AP, you'll love this class. You learn a ton. Some example HW's were building a scheduler and a filesystem for Linux. \r\n\r\nI maybe would've liked if Jae spent more time on OS theory and less on Linux specific stuff.\r\n\r\n\r\n",
+        "course_header": {
+            "course_code": "COMS W4118",
+            "course_id": 2384,
+            "course_name": "Operating Systems I"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 79983,
+        "submission_date": "2017-05-04T04:00:56",
+        "workload": "disclaimer: my group was shitty and I carried ~80% of the work. If you get a great team, then maybe the work is more manageable. \r\n\r\nINSANITY. \r\nINSANITY.\r\n\r\nDo yourself a favor and only take this class on a light semester or be prepared to neglect all your other classes. OS is easily 3 times AP workload. I was taking 6 courses at the beginning of the semester and it was impossible to do well in every class. I ended up dropping one but only after my midterm grades took a serious hit. The work load for this class is insanity. I was warned but I did not heed the warnings since I received the same ones for Data Structures and AP, which I found to be easy and very enjoyable. OS was different. HWs 3,5,6,7 averaged over 40 hours of work. This class alone was WAY more work than all my other courses combined (4 in total). The fact that this class is only 3 credits is insulting. It is almost a full time job."
+    },
+    {
+        "agree_count": 0,
+        "content": "Jae Lee is a terrible professor. I wouldn't even want him as a TA for this class. \r\n\r\nHis two main objectives are: Make blisteringly difficult homeworks and tests, and catch cheaters. \r\n\r\nYou will hear him talk about cheating in almost every lecture. It's his favorite subject. He sent out several unprofessional emails to the class ranting and raving about cheating, including one where he called cheaters \"douchebags\". At the end of the semester, maybe three weeks before the final, he sent out a threatening email to those he suspected of cheating saying they had until the next morning to reply as to whether or not they cheated and the first word of their email had to be yes or no. If they said no there would be a formal investigation and the consequences would be much worse than if they just admitted cheating. He sent this email on a Friday night, where no one would be at the school to advocate for, or give advice to the students who received the email. I had some friends get the email, who didn't think they had cheated, but because of the threatening nature of the email, they didn't know what to do. Some of the cheating accusations came from homework assigned toward the beginning of the semester. So he waited until just before the final, when stress was highest, and sent a threatening email forcing students to incriminate themselves, or else. \r\n\r\nOne student gave him a doctor's note because they were sick during a test. He didn't believe them, and passed their note around to the TAs. There is no reason for him to share someone's medical information with TAs. \r\n\r\nThe tests were ridiculous. He gives you tests from past semesters to study from, but all they will do is show you that your test will be just as impossible as those were. The averages were low, something under 50 for the midterms, I believe. This is the only class I've ever had where I felt like I wasted time by studying. I don't care if I get a B+, if you give me a test where I get 40/100, I'm going to feel stressed and deflated. \r\n\r\nThe homework was insanely difficult and time consuming. If you have a ton of experience programming, far beyond Intro to Java and Data Structures, it might not be so difficult, but it will be time consuming. Think 20-30 hours per assignment toward the end. \r\n\r\nThis listserv for this class is annoying. You get dozens and dozens of emails a day. It's not well organized. \r\n\r\nThis has the opportunity to be a great class. Knowing C and C++ is very valuable. This class should not be taught by Jae Lee. No class that is required for a major should be taught by this man. People should be able to choose whether or not they want to subject themselves to his teaching. It blows my mind that he has good reviews on here. I feel like I'm looking at a conservative's Facebook page filled with pro Trump propaganda. The only reason I can think for this is that you've never felt relief like being done with this class. If you struggled through like most of us, you'll probably never want to think about AP again, let alone write something about it. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 79845,
+        "submission_date": "2017-03-11T00:04:52",
+        "workload": "Absurd. If this isn't your only class, I hope you don't have a scholarship. "
+    },
+    {
+        "agree_count": 16,
+        "content": "Jae is one the worst professors I have ever had. He is discouraging his students by telling them that they are essentially losers for not remembering C code syntax. He has no new knowledge of the recent updates in the C and C++ language, which makes no sense as a computer science professor at an elite school. \r\n\r\nJae teaches this class with the passion your dad has for reading you washing machine manual. He is boring and uses abstract class notes, while not following any reading order, just to confuse you even more.\r\n\r\nHe uses an old school teaching method where telling a student he sucks should motivate him or her to do better and try harder.\r\nThe grading system is unfair and discouraging. The exams are ridiculously hard and don't reflect in any way how much of a good programmer you are. The problems on the exam are tricky and concentrate on memorizing syntax and Linux command line outputs, also if you understand tricky instructions.\r\n\r\nJae exploits the fact CS students are obligated to take AP to demoralize students. With so many good CS professors that Columbia has to offer, it is a shame one has no choice but to take AP with Prof. Lee.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 4,
+        "funny_count": 1,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 1,
+        "review_id": 79819,
+        "submission_date": "2017-02-09T18:18:14",
+        "workload": "Heavy and tricky exams."
+    },
+    {
+        "agree_count": 0,
+        "content": "This was hands down the hardest and most time-consuming class I have ever taken at Columbia.\r\n It was also my favorite. \r\n\r\nIf you really enjoyed AP and think you would enjoy getting into the nitty gritty details of Linux, take this class. \r\nJae is a good lecturer, but it seems that he is still figuring out how to teach operating systems, so his lectures are not as great as his AP lectures. Still, it shows that he put a lot of thought into the way the class and assignments are laid out. I found the order of the material to be pretty natural and easy to follow, but I'm sure the syllabus is still changing every semester as he figures out how to teach this class. \r\nAlthough I found the lectures and readings easy to follow, my team and I really struggled with the homeworks. However, I'll admit that part of the reason that we struggled so much was that we did the readings right before the tests rather than before attempting to do the assignments. So, if you want to make your life easier, do the readings before you get down to coding. There will still be some shooting in the dark involved, but not nearly as much as if you only rely on your knowledge from the lectures. \r\n\r\nThat being said, what made the class truly enjoyable was having an amazing team. None of us knew each other before OS, but we became close friends by the end of the semester because we were spending close to 40 hours/week with each other for this class. It seems like an exaggeration, but I promise its true. We got pretty decent grades on most assignments, but we made very little progress on other assignments (despite the crazy amount of hours we dedicated to working on them). \r\n\r\nThe tests are classic Jae-style trickiness. The curve was pretty generous though. \r\n\r\nIf you are interested in the material and aren't afraid of some hard work, go for it. You are only at Columbia for so long, and you can get a lot out of this class.  \r\n",
+        "course_header": {
+            "course_code": "COMS W4118",
+            "course_id": 2384,
+            "course_name": "Operating Systems I"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 79653,
+        "submission_date": "2016-12-27T10:08:43",
+        "workload": "HEAVY\r\nHEAVY \r\nHEAVY\r\n\r\nSuper-long & tough Homeworks\r\nTricky tests"
+    },
+    {
+        "agree_count": 0,
+        "content": "Jae is an excellent lecturer who is very clear about his explanations. Even though his lecture notes are already quite good, it's definitely worth it to come to lectures, since Jae provides useful supplementary information and also runs sample code so one can see how the code exactly works. \r\n\r\nThe TAs are also very willing to help you with the code (as long as you put in the effort, of course). The recitations are more or less just review of the lectures, but if you want more practice or sample code, it's good to check them out.\r\n\r\nThe exams are quite tricky. The best way to prepare is to definitely read all of the lecture notes very carefully (VERY CAREFULLY), understand exactly what each line of code does, understand how each lab works, and read K&R or the C++ book carefully. It might even be helpful to write and run your own code to ensure you know what is happening. Furthermore, Jae might reuse exam questions from the previous midterms, so definitely learn from your mistakes. \r\n\r\nThe labs vary in difficulty. As long as you have the proper prerequisites (Data Structures, some familiarity working with UNIX commands and hopefully Vim/Emacs, and good coding habits) and as long as you follow along in class, the labs will be straightforward. Pointers are actually not that difficult if you follow along and draw pictures. The hardest lab is lab 7 in which you have to write a web server. It's not difficult conceptually, but it's difficult because there are many parts you have to keep track of. Make sure you debug your code constantly (instead of writing the whole lab in one shot) and get started early! Be sure you do well on the labs, since the averages for labs, unlike those for exams, are usually very high. \r\n\r\nPersonally I thought the listserv was a giant clusterfuck. However, if you care enough to look through all of the emails (questions about the labs, questions that have already been asked, emails from TAs exasperated at people who repeat the same questions), you can gain some useful tips for finishing labs or figuring out exam questions. Just make sure you search for your question before you create a new email, and don't reply-all to announcement emails. It's essential that you set up an inbox filter to filter all of these emails.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 79641,
+        "submission_date": "2016-12-24T20:16:13",
+        "workload": "Two midterms and one final exam, all of equal length and each worth 25% of the grade.\r\nThe 10 labs are cumulatively worth 25% of the grade. Lowest one (raw score) is dropped."
+    },
+    {
+        "agree_count": 0,
+        "content": "His Lectures are well organized, relatable, he stays on topic, throws a few jokes to keep you awake, but he can be intimidating.  \r\n\r\nMy advice to overcome the wall between you and Jae is to go to the Hackathon and introduce yourself.  He's actually nice if you get his attention.  It seems like he prefers a student that doesn't need their hand held (which is the intimidating part) but pestering him is a good way to show him you care/will work hard.  I think that could be why some students don't like him as a person.  If it's really that bad, then hire a tutor (I did).  Your tutor is pretty much your employee at that point.  If you can't hire a tutor (a good CS tutor is $$$$$), then you need to make sure this is the only difficult class you are taking because you will live in the TA room.  If you can't either see Jae, hire a tutor, or be in the TA room for almost every OH, then you are probably cheating in order to do well.\r\n\r\nMy advice for the cheaters is that you will get caught so proceed with caution.  You could lie (most cheaters are also liars), but you'll get caught!  I can't stress this enough.  Jae says this in the beginning too and people still think they can do it. \r\n\r\nMy advice for if you don't cheat (i didn't but I almost regretted not doing it), just let it go.  I think Jae pretty much hit the nail on the head when he said those people who cheat like that won't make it very far in the world of CS.  Just worry about yourself and try your best to have fun.  There was an intrinsic reward in the end.  I did become a better programmer after this and real world programming made just a little more sense.  \r\n\r\nGo to every lecture and don't bother opening your laptop.  The notes are posted to the server so stop pretending you're taking notes and just watch what he does.  Read over the notes later.\r\n\r\nUse the drops and extensions strategically.  You will need them, but try not to drop any of the ones right around the midterm.  I think around lab5-8/9 (can't fully remember) is when you really should focus.\r\n\r\nThe exams are tricky.  If you don't like your grade just argue a lot.  I will say that if you KNOW how to do the homework, then you KNOW what he's asking in the exam.  You'll be able to argue for your points (all points matter) if you KNOW.  Also, his exams are pretty much from the lectures and old exams. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 79571,
+        "submission_date": "2016-12-16T20:51:15",
+        "workload": "IMO they aren't doable if you don't get help (or cheat).  \r\nWhat is a curve? A curve doesn't do anything for anyone if nearly everyone cheats.  Don't rely on the curve to save you.\r\nMidterm is from the class notes and a few from lecture\r\nFinal is basically questions from your midterm and past exams plus a lab question.  Literally he will ask you about the lab."
+    },
+    {
+        "agree_count": 0,
+        "content": "Apart from his teaching, Jae Lee is the worst human being I have ever had as a professor. All the other professors in the computer science department genuinely care about you learning and being successful. This is not the case with Jae. I hope that the way he treats his students comes back to bite him in the ass one day.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 2,
+        "review_id": 79347,
+        "submission_date": "2016-09-29T07:10:50",
+        "workload": "Very Heavy, be prepared "
+    },
+    {
+        "agree_count": 0,
+        "content": "Have mixed feelings about this class. Took AP with Jae many years ago and can say that it was significantly better run and more structured than OS. He seemed much less prepared to teach this class. The content wasn't terribly interesting. We spent a lot of time on UNIX APIs and not enough time kernel hacking. It was an 8:40 am class so no one really showed up. It didn't really matter since Jae would just talk about a couple of functions from a man page for an hour any way. Most of the learning is done on your own by reading many chapters from 3 textbooks.\r\n\r\nThe first midterm was poorly written and essentially required you to know random facts from the textbook and didn't really test conceptual thinking. The second was slightly better but still overall not a great test.\r\n\r\nThe HWs were hard. Required a lot of reading of man pages, kernel code and experimenting. Doing it on your own was a miserable experience that led to many sleepless nights. Always felt pressed for time on the group projects. I never felt intellectually challenged by any of it but did feel like it was a lot of worked. There was never an aha moment where I appreciated the beauty of an operating system. It's just a mangled mess that we deal with since that's how some bloke decided things should be done many decades ago.\r\n\r\nEnsure that you form a good team. They don't have to be incredibly smart, just very hardworking, sincere and accountable. Mine didn't do any work which led to a lot of incomplete homeworks since it's kind of impossible for one person to finish the HW on their own unless they're willing to devote well over 10 hrs/week to it.\r\n\r\nOverall, I was slightly disappointed in this class given that I thought AP was fun and easy. Jae needs to step up his game here. You might want to take the class with Jason Nieh who is an OS researcher and will focus more on kernel programming, but be warned that his workload is even worse. I do think that every CS major should take OS. It's surprising that Columbia doesn't make it a requirement. That said, I begrudgingly took it.\r\n\r\nTAs for this class were great fwiw. A+ to them for their hard work.",
+        "course_header": {
+            "course_code": "COMS W4118",
+            "course_id": 2384,
+            "course_name": "Operating Systems I"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 2,
+        "review_id": 79206,
+        "submission_date": "2016-05-21T12:17:58",
+        "workload": "Heavy\r\n2 midterms - average was around 60 for both\r\n8 HWs - 3 were individual, rest were group projects"
+    },
+    {
+        "agree_count": 0,
+        "content": "This class was probably the most immediately applicable class I ever took, and it's easy, too.  Jae teaches you C, much like in the Advanced Programming Course, with an emphasis on the subtleties of memory allocation and pointers.  In the last 5-ish weeks you make the transition to C++ and focus on references and object-oriented structure.  During all of this, you're also learning about fundamental data structures like linked lists, trees, and graphs.  It's a crash course in everything you need to know to get your foot in the door for programming and helps a lot for physics, chemistry, economics, or whatever you're trying to do (if you're not a comp sci major).  Highly recommend it.",
+        "course_header": {
+            "course_code": "COMS 3136",
+            "course_id": 6869,
+            "course_name": "Essential Data Structures"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 78545,
+        "submission_date": "2015-04-21T16:14:13",
+        "workload": "5 programming projects. The first is easy, second is hard, third easy, fourth hard, fifth kind of hard.  He may have added an exam since I took the course. "
+    },
+    {
+        "agree_count": 0,
+        "content": "This class is legendary for a good reason. The assignments are long, the material difficult, the exams are incredibly tricky bordering on unfair. However if you get through it you will have learned as much in this course as self-taught programmers may learn in years, if ever. I write this from a perspective of someone who took this course with basically zero knowledge of computer science or programming experience coming into this class. \r\n\r\nWhat the class covers really well: C.\r\n\r\nWhat the class will force you to learn by sheer force: the UNIX environment, working with a shell, basic git commands, how memory works under the hood, and more C than you ever care to know, and then some.\r\n\r\nWhat is briefly touched upon: multi-threaded programming through blocking functions, sockets/networks, and basic under the hood stuff for C++.\r\n\r\nJae begins the semester with the claim that he'll turn students of programming into actual programmers which sounds like an ambitious task but he pulls it off fairly well. By the end of the class, you will have coded a linked list in C, written your own web server, and some minimal C++ experience, all of which isn't that impressive on paper. However, the skills you learn here will be applicable to nearly any job you hold as a computer programmer unless it's really implementation-heavy front end stuff. Even then, you will come away with experience of having to read lots of documentation with very little guidance on how to use it, which is expected of all programmers. \r\n\r\nIf you want to do programming as a career and are debating taking this class because of the grading, take it anyway. You'll learn a lot more than you think regardless of your grade. He grades to a A- and in my semester he curved everyone to at least a C-. I did terribly on my first exam and still eked out a B+.\r\n\r\nThis is sort of a requirement: get to know your TAs really well. They are all super helpful, smart, and were probably the reason I didn't drop out after failing my first midterm. They really make or break your experience in the class. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 53565,
+        "submission_date": "2014-11-19T23:02:36",
+        "workload": "Heavy. 10 labs, 1 optional, 7 free-form late days, no more than 2 per lab. \r\n2 midterms, 1 final, all impressively crazy. \r\n\r\nI wouldn't take this and Data Structures at the same time if you're looking to take your programming skills to the next level. Both professors warned me not to do it; I did it anyway and I managed to survive, but I was only taking 10 credits. Still I wouldn't recommend it. Take 3134 or the honors Data Structures first before taking this class if possible."
+    },
+    {
+        "agree_count": 3,
+        "content": "This class is amazing. Jae is amazing. The TAs are amazing. There's not much bad to say about it other than... Oh. Right. The tests.\r\n\r\nLet's start with the good. Jae's lectures are interesting and helpful. I thought that he went at a perfect pace. The homework assignments can be somewhat challenging but everything is so well organized. All you need to do is pay attention in lecture, go to recitation, and give yourself enough time to do the programming. I was almost terrified coming into this course, from the horror stories that I heard from upperclassmen. I heard that the labs would get harder halfway through the course, but I didn't feel like there was that significant a change. I will, however, say that if you don't know the material from the first few labs, you will likely struggle with the latter ones.\r\n\r\nAlright, so the tests. The tests are pretty unpredictable. All I can say is try to study as much as you can and beware of Jae's trickery. Do the practice exams to get an sense of what the problems will be like. You might not ever be fully prepared... but good luck, and hope for a good curve? (it will be pretty good.)\r\n\r\nSomehow, despite how awful I felt when struggling through the tests, I still really enjoyed the course and I feel like I can look past those. You will definitely learn a lot either way.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 29540,
+        "submission_date": "2014-05-22T20:59:17",
+        "workload": "10 labs total (one of them is optional). Give yourself maybe 5-12 hours (really depends on the lab). Try to start early. Go to office hours if you need to. There's also a recitation (1 hour) every week.\r\n2 midterms. 1 final."
+    },
+    {
+        "agree_count": 4,
+        "content": "So Jae taught this course in Spring 2014 because the normal OS professor was on leave. I'm not sure when he will teach the course again, but I wanted there to be a CULPA review so that people can go into this well-informed.\r\n\r\n--- The Course ---\r\nI learned a ton from this course, though I didn't necessarily realize it as I was slogging through. Jae reformatted the course and taught it with undergrads in mind, which was appropriate given that the class had many more undergrads than in past years (no doubt because of Jae's popularity). As such, much of the first half was actually an extension of AP (lab7/http-server) used to teach OS concepts such as concurrency, memory sharing, and inter-process communication (user space programs to teach kernel stuff). It again demonstrates Jae's theory of teaching, using previous knowledge in order to bridge the gap to new concepts. With regard to content, Jae put a great deal of time into UNIX programming compared with hardware knowledge / kernel hacking. Jae explains that the earlier stuff is more applicable and the latter stuff is changing (e.g. we didn't cover hard disks, probably because SSDs sort of shift that paradigm). I buy his explanation. The pacing of the course wasn't great, with probably too much time spent on UNIX programming on the front and too little systems/kernel work at the end. Of course, this is understandable given that this was Jae's first time teaching OS and that he completely restructured it.\r\n\r\n--- Homework ---\r\nA few individual assignments (that are pretty easy) with mostly group projects (up to groups of three). Having a good group is obviously helpful. All the projects run on Arch Linux, which you will set up on VirtualBox. The assignments usually didn't involve much coding, but rather a lot of understanding how the code runs and scouring the internet. In other words, frustrating yet also good practice for the real world. The assignments have good underlying structure, but still need refining (again, should get better over time). Sidenote: the listserv from AP carries over as well, and will save you hours of struggle if you follow closely.\r\n\r\n--- Exams ---\r\nI got destroyed on the midterm, but in hindsight it was one of the best crafted CS exams I have ever seen. It definitely tested your ability to read code and apply the concepts we learned. The final was very different and a bad evaluation of our mastery in my opinion: 25 multiple choice questions about very specific things we covered (i.e. very un-Jae-like). Both exams unfortunately do not provide room for partial credit.\r\n\r\n--- Lectures ---\r\nNot incredibly interesting, but still important to really ingrain the material in your head. Jae mostly worked off of powerpoints, which I found ineffective. The few times he used the board were better. For me, printing the notes/slides beforehand and taking notes directly on them worked best.\r\n\r\n--- Grading ---\r\nJae curved to a high B+, which I consider pretty generous. Just be very VERY careful to follow homework instructions exactly as stated. Lots of times grading occurs on scripts, so the slightest problem could send your grade down just for not properly following basic instructions.\r\n\r\n--- TAs --- \r\nJae carried over the best AP TAs and I assume he would do so in the future as well. There was also a contingent of Chinese grad student TAs who were friendly, but generally less helpful.\r\n\r\nI doubt I've covered everything, but hopefully someone after me can fill in any missing gaps. On the whole, I would say to take the class with Jae if you are an undergrad (and if he ever teaches it again).",
+        "course_header": {
+            "course_code": "COMS W4118",
+            "course_id": 2384,
+            "course_name": "Operating Systems I"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 29513,
+        "submission_date": "2014-05-20T15:57:20",
+        "workload": "\"7\" assignments (meaning trivial HW0 and HW1, followed by HW2, HW3(a-c), HW4(a-b), HW5(a-b), HW6(a-b)), 40%, not all are graded\r\nMidterm, 25%\r\nFinal, 35%"
+    },
+    {
+        "agree_count": 3,
+        "content": "One of the better CS courses out there. It's truly inspirational how Jae teaches (Sidenote:  Chris Mulligan and Jonathan Balsano, the head TA's are also a plus for this course; they know everything and they will go the extra mile to make sure you know the way Jae wants you to know the material). The labs get progressively harder (lab 2 is particularly challenging for those that only know Java and thinks they know everything).\r\n\r\nJae hands out a bunch of very clear yet brief set notes for every topics. The listserv is very useful and you won't have to wait more than a couple of hours before a TA responds to your questions.\r\n\r\nThe bad part are the exams. For all the thought Jae puts into the labs and lectures, I feel he hasn't figured out a way of writing exams that aren't so unforgiving yet as challenging as the ones he cooks up. No matter how many hours you spend studying for the exams, you will be challenged. There are no easy questions. You almost certainly will need to go through an overly-complicated program that makes you follow 10-15 logical statements that intersect and go through overly-complicated loops. Almost always the questions will be either right or wrong, and there aren't many questions (usually 10 in midterms, 20 in final). Normally this wouldn't be such a problem, but each question usually tests for 3, 4 or 5 things at the same time. So even if you knew everything there is to know about 4 concepts, if you missed the one, you won't get the answer right (guessing here is really, REALLY bad) and you will probably end up losing a bunch of points. His exams are all or nothing, meaning that you won't get partial credit over anything. You truly are as strong as your weakest topic.\r\n\r\nThen again, if you want to be a programmer or you want to do something related to programming later on, take this course. You will learn more in 3 months than you could expect in a year. If you are not a programmer, nevertheless take this course. Programming is all about getting rid of any assumptions you may have and think logically and methodically and CS3157 makes you develop those skills more than you ever thought possible.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 29472,
+        "submission_date": "2014-05-15T06:06:28",
+        "workload": "If you are not a good programmer, ~10hrs per lab\r\nIf you are a good programmer ~7hrs per lab\r\n2 Midterms\r\n1 Final\r\n9 compulsory labs."
+    },
+    {
+        "agree_count": 3,
+        "content": "First off, Jae is a fantastic lecturer. If you go to every class and pay attention (which isn't too difficult to do), you'll learn a ton about C, C++, how the internet works, etc.\r\n\r\nThe material itself is quite difficult. C is a low-level language, so you'll be doing a lot of stuff that you probably never did before (especially in 1004/1007). You have to worry about memory, how pointers specifically work, and every other minuscule detail that gets done for you in higher-level languages like Java.\r\n\r\nIt's interesting that you start at C, but build up to C++, which shows itself to be strangely similar to Java (Java was built off of C++)... so you kind of do a full-circle.\r\n\r\nOverall, would absolutely recommend this class, but make sure you take it in a semester that you aren't too overloaded with other stuff. You will do a crapload of work, but you'll learn a lot.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 29467,
+        "submission_date": "2014-05-14T17:27:43",
+        "workload": "10 labs, drop 1. labs=30%.\r\n2 midterms, each 20%\r\n1 final, 20%"
+    },
+    {
+        "agree_count": 15,
+        "content": "I took this class 1.5 times. I started as a sophomore, shortly after 1004, with the mindset of \"let me just make this program work.\" That mindset led me to a 50% by the time the withdrawal date came around (which would've been a B-, but I thought I was failing) so I withdrew.\r\n\r\nI enrolled in the class again 2 years later, this time with the programmatic maturity to understand what the class was really about, and why that information mattered. Although the classwork takes the format of programming assignments, they are really about the underpinnings about C/languages (e.g. memory management, pointers, etc.). If you want to learn it well, you should break things! Rewrite your labs in different notations (e.g. array vs. pointer) to learn the differences. Become intimate with C. \r\n\r\nThe reason I mention my backstory is to help advise students who are on the fence about taking the class now or later. Some people can handle AP early on. But two years ago I honestly didn't care about freeing memory or understanding where my variables were stored. I gradually developed that interest after taking a few more CS courses/ being asked such things in interviews, and I am very happy I had the opportunity to take AP again. I got a lot more out of it, and the class was immensely more interesting.  \r\n\r\nThe class has 10 labs, of which 1 (lab 8) is optional. In the past, Jae had a policy of only granting class-wide extensions and every lab would be extended. He has changed his policy, for the better, to allot everyone 7 penalty-free late days each, to be used whenever (with a max of 2 late days for a given lab). This is a great policy, since it allows you to manage your time a lot better.\r\n\r\nThe class also has 2 midterms and a final. The all-or-nothing nature of many of the questions means the grades are relatively polarized--you could do extremely well or extremely poorly, for missing 1 simple thing. If you get above a 90, you really know what's up.\r\n\r\nSo I mostly wrote this review to call out the author of the last post (December 2013) regarding handling of the final. To give readers some context, several people in the class missed 5 points of a 20-point question for different reasons and proceeded to somewhat aggressively mail the list-serve arguing over which wrong answer was \"less wrong\" and deserved 2 extra points. Several TAs and Jae explained the reasoning to the rubric in response. \r\n\r\nTo insult Professor Lee's English, when he so eloquently and rationally addressed each concern from the email chain in a class announcement, is incredibly rude and borderline racist. Full disclosure: I missed 10 points of the same problem for a different reason, and though I disagreed with the severity, I had the decency to not make personal attacks.\r\n\r\nThough I found grading in the class sometimes tough, and I did not do as well I as would've liked, I learned *a lot* and became a much better programmer. Much of this is due to Jae. He is one of the few people in the department devoted exclusively to his students. I have personally experienced how he uses student feedback to iterate on his teaching from semester to semester, in order to better serve his students. He organized a class hackathon this semester, complete with pizza, Insomnia cookies, and t-shirts, to help students connect on an informal level. He stayed there the whole time, until 5:30 am, making sure he chatted with everyone at least once before he ran off to take his son to soccer. He learned my name despite the large class size (I never attended office hours or anything either).  He is one of the best professors I have had in the department, and I would recommend taking his class to anyone mature enough (as a programmer/student/person) to handle it.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 6,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 29153,
+        "submission_date": "2014-01-16T00:33:35",
+        "workload": "Typical of a CS class. 3 exams, 10 labs."
+    },
+    {
+        "agree_count": 10,
+        "content": "I agree in general with the May 22 2013 reviewer on some of the basics (don't go anywhere near anything taught by Shlomo Hershkop, the exams are a bit of a crapshoot, details on labs can be a bit overwhelming but the detailed specs are ultimately a net positive) so go read that and then I'll focus on a few points where we differ to some degree/where things have changed:\r\n\r\n- This not \"just a programming class.\" Getting familiar with C means getting familiar with a lot of low-level system functionality. If you don't understand pointers and memory management completely intuitively, you'll never really understand what's going on in higher-level languages like Java. Jae Lee definitely gets you acquainted with pointers and memory management.\r\n\r\n- But you will learn a lot about real-world programming. For example: I hated the listserv early on and sent the professor a frustrated email about it, but I came around eventually. A lot of the big (and small) open source projects are built around listservs and all that comes with them. This class's listserv gets you used to the number and type of emails (including repetitiveness), the personalities that appear (the noob who asks a question he could've googled, the guy who replies to everything within 10 seconds but is kind of an asshole, the Benevolent Dictator For Life, i.e. Jae Lee, etc.), and so on.\r\n\r\n- YAXing (as many extensions as you want) is gone as of this semester. By all accounts, that's a big improvement. Also, we had two midterms this time around instead of just one.\r\n\r\n- I felt that the exams assessed the material quite fairly, although they generally played to my strengths and I did well on them without studying, so people who studied a lot and still did poorly likely feel otherwise with good reason.\r\n\r\n- Focus on the principles, not the details. C, C++, Unix and TCP/IP all have a really deep underlying logic and if you can wrap your head around it you're set. Everything is there for a reason. If you remember the reason you can derive the details on the exam. For example, in Unix and C \"everything is a file\" (external devices, actual files, other programs, etc.) so when you write to stdout you're writing \"to a file.\" When you read from stdin, you're reading \"from a file.\" Sockets can be treated exactly like a file. BUT because \"everything is a file,\" a \"pointer to a file\" (FILE *) can't possibly be an ordinary derefencable pointer -- dereferencing, after all, is the act of visiting a location in memory and reading some information out, which you can't conceivably do with a web socket -- so if you worked through that logic, you wouldn't make the mistake some people did of thinking that a file pointer can be dereferenced. So, principles, not details.\r\n\r\nIn general, I liked this class a lot, though a grading dispute on the final exam made me seriously question Professor Lee's judgment/command of the English language. However, given that I did not witness any other such problems, I'll be charitable and assume it was a truly isolated incident.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 7,
+        "funny_count": 2,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 28954,
+        "submission_date": "2013-12-24T06:07:55",
+        "workload": "30% final, 30% labs, 20% each for 2 midterms"
+    },
+    {
+        "agree_count": 14,
+        "content": "I definitely wasn't alone in that I had a lot of mixed feelings about this class.  I'll start by saying that is certainly the only viable option for taking Advanced Programming.  (Sidenote: If you're even thinking about taking Shlomo Hershkop's course, you're better off dropping out of school than wasting your tuition on an insulting elaborate practical joke).  However, I wouldn't call this class an amazing one that you absolutely have to take before you graduate, unless of course it's a requirement.  It really is just a programming class.\r\n\r\nFull disclosure: I have no plans to take OS and I'm not sure when I'm going to use C again.  The general theme of this course was \"trust me - this will all be useful later.\"  As a result, the subject was as uninspiring as it gets, unless you happen to love learning about large amounts of syntax and technicalities of programing languages.  \r\n\r\nThe best part of the course was the labs (programming assignments).  They were very well written were never had ambiguities.  These assignments are the same every semester, and solutions are provided immediately after the deadline.  Though this technically makes it very easy to cheat, keep in mind that the labs are the core of this class, and there's no point in taking it if you're not interested in working through each of them.  Because they were so detailed, they could be a bit overwhelming to read the first time through, and it is very important to follow the instructions to the letter.  Ultimately, they were very enjoyable to work through, and I can honestly say I learned almost everything that I learned in this class from working through the assignments.  Rubrics were provided for each lab that clearly stated how points were awarded.  \r\n\r\nI personally didn't find the lectures that I attended all that helpful.  The ones at the chalkboard gave good introductions to topics, and I profited the most from these.  He'd often go over something too quickly, and then be asked to repeat it three or four times more.  Occasionally, he'd repeat a large portion of the previous lecture, though it was impossible to tell when he would do that.  Ultimately, it was clear that he made the effort, but had trouble keeping everyone in the large classroom on the same page.  There were a lot of times when he'd explain something simple, or say \"you remember this from last time, right?\" and then five minutes later someone would raise their hand and ask about it.  When he did hour-long demos from the computer with the lights out, I found it very difficult to focus.  I'd always try to follow along with him, inevitably miss one step and therefore be lost for the rest of the demo.  \r\n\r\nThe pacing was also strange, as the last three weeks were the only time we spent programming in C++.  Almost the entire first half of the semester was dedicated to the C language, and the remaining time was spent on systems programming in C.  I understand that the training in C might be important for people who plan to take OS, but for everyone else it seemed like overkill.  \r\n\r\nI really never got the point of the whole YAXing policy.  Looking back, the deadline for every lab besides the first one was extended, and roughly half were extended twice.  Sometimes, the announcement of the extension was within 24 hours of the original deadline.  Talking to previous students and looking at CULPA reviews, I see that he's been doing this same practice since he started teaching.  I can't help but wonder why.  It would make a lot more sense for him to just tell us how long we truly had for the assignment so that we could plan ahead.  At this point in teaching the class, he probably knows how long he actually plans to give the class for assignments. \r\n\r\nThe mailing list was something about which I seemed to have the minority opinion.  I was really not a fan of it.  It might've worked better with a smaller class, but for a class of 140 students it bordered on absurd.  There was so much showing off and subtle attempts to suck up to Jae.  Some attempts were not subtle at all; for example, when the final exam solutions were mailed out, one student sent out an email saying that the exam was very well designed, and that this was the best course he had ever taken.  People would also use the mailing list to tell the class about how they went further and did additional work.  \r\n\r\nThe worst part of this class, and by far the most frustrating, was the evaluation process.  Jae said on the first day that it is very difficult to write an exam that assess what we truly know.  After seeing last semester's exams, it is clear that he is making the exams substantially more difficult by the semester.    He always said that working independently through the labs was the best way to prepare.  As someone who did just that, I can frankly say I've never felt so unprepared for exams as I was in this class.  The issue wasn't my approach to the labs, nor was it that I wasn't studying hard enough.  The midterm was about the same length as the final even though the final was given during final exam period.  There were a total of 17 questions on the final, and every single one of them was either a (very) short answer or multiple choice, with absolutely no partial credit under any circumstances (and trust me, there were plenty of places to mess up).  Questions would be asked on code fragments that were as long as 3 pages.  Single short problems would often test 5 ideas at once and carried a high all-or-nothing point value.  To add insult to injury, there would be multiple questions testing the same trick.  It seemed crazy to me that single trick multiple choice questions carried the same amount of weight as entire programming assignments.  The only reason I didn't feel worse when walking out of an exam where I had to make a semi-educated guess on most questions was because I knew that no amount of preparation would've been sufficient.  \r\n\r\nUltimately, the final curve is very generous, with half of the class receiving at least an A-, and this will save you at the end of the semester if you work hard and have the right amount of luck.  The grades on both exams truly ranged from 0 (yes, zero) to 100, with the median on each around a 50.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 3,
+        "funny_count": 2,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 28435,
+        "submission_date": "2013-05-22T15:48:32",
+        "workload": "30% Lab Assignments (9)\r\n30% Midterm Exam: Median 48 Standard Deviation 21\r\n40% Final Exam: Median 50 Standard Deviation 25"
+    },
+    {
+        "agree_count": 9,
+        "content": "Advanced Programming is a great course which makes you a better programmer. It introduces you to C, C++ and some system programming. It also introduces the UNIX environment if you're not familiar using a shell or an editor like vim.\r\n\r\nJae started slow in the beginning, spending a lot of unnecessary time on C. He rushed through C++ in the end because of this. The class gets most interesting in the middle when you build a simple web server.\r\n\r\nThe labs take anywhere from 2 - 14 hours of work. Lab 7 is the longest. None of them were really hard, but he extends the deadline for pretty much all of them.\r\n\r\nThe midterm was just as hard as last semester. It's not bad though because the class average is really low (around 50), so you can get a good grade. The final was much easier than the midterm. A lot of people complain that this class is hard - it's not. It's of average difficulty and has an acceptable workload for a 4 credit course.\r\n\r\nJae's a great teacher, but he's not very approachable. He does care for his students, but he's very curt and to the point when you talk with him in person.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 4,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 28427,
+        "submission_date": "2013-05-21T16:56:08",
+        "workload": "30% labs\r\n30% midterm\r\n40% final"
+    },
+    {
+        "agree_count": 12,
+        "content": "Basically I was really excited to take this class because the other reviews were raving about Jae. When I saw he was teaching again after he got his PhD, I was like YES, and now at the end, I'm just like meh. \r\n\r\nWell, the start was good. He set up a listserv to encourage class participation where students could ask questions and interact with TAs and other students. Everything was explained slowly for people who have never been exposed to C, but then he started to get behind on his lectures. That was sort of when things started going down hill. The labs were fun, but he would not have covered the material for them, and so he had to rush in class to cover what we needed to know on the labs, rather than take a good amount of time explaining things. Inevitably, he would have to YAX (yet another extension) them so he allowed people a reasonable amount of time to finish them. He also changed the labs from counting 40% of the course grade to 15%, which in my opinion has hurt a lot of people. We spend A LOT of time on doing the labs, which is why I think they should count more. That's where we do most of our learning, and where we can demonstrate we have an understanding of the material. \r\n\r\nThe midterm was really hard. After he gave us the midterm from fall 2011, which seemed very doable, the actual midterm was a disaster. The average was a 50 with a standard deviation of like 23. As someone who did well on the labs, I figured I was going to be fine on the midterm, but when I saw the midterm, I panicked because it seemed incomprehensible. I feel like I could have done a lot better. \r\n\r\nThe second half of the class felt rushed. The C++ things seemed VERY rushed. The last two labs are C++ oriented. Honestly, I'm on the verge of taking the final and still don't feel like I know that much about C++.\r\n\r\nI think Jae was very stressed this semester with a class of almost 200 people and that detrimentally affected his teaching ability. Overall, I wasn't blown away by this class. I feel like I didn't really profit from his lecturing style, but I have to agree that the labs are very well designed. ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 3,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 27769,
+        "submission_date": "2012-12-20T05:58:40",
+        "workload": "10 labs, lab 8 is optional (15%)\r\n1 midterm, average in 50s with std dev of about 23 (35%)\r\n1 final, yet to take (45%)\r\n5% \"buffer\" points for people who actively participate in the listserv/did lab8/had beautiful code/other stuff that Jae thinks merits the 5% boost "
+    },
+    {
+        "agree_count": 8,
+        "content": "Jae's class is carefully thought out.  Assignments are meticulous and error free.  He actually teaches material in class.  So you will learn things from him instead of having to teach yourself everything.  The entire class is extremely well executed.  You learn a tremendous amount from working through the assignments.  The class is incredibly rewarding.\r\n\r\nJae is very detailed and his lecture notes are previded which are a wonderful summary of the book and his lectures.  He answers questions in class but does not get bogged down.  He moves through the material swiftly but does not gloss over things.\r\n\r\nI can't say enough good things about Jae and his course.  I feel lucky to have taken it.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 10,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 27633,
+        "submission_date": "2012-11-14T21:39:47",
+        "workload": "10 assignments which are paced well.\r\nMidterm and Final which are difficult but not unreasonably written.  The material is all covered in class but the assignments and exams are challenging."
+    },
+    {
+        "agree_count": 7,
+        "content": "Jay was great.  The course started a little slow and could have gone faster on the non-programming parts.  Because of the slow start and the time we spent on make and git it felt rushed by the time we got to c++ at the end.  The lectures (always sent out) were really clear and full of examples.\r\n\r\nHe set up a mailing list that ended up answering most of the tricky problems in the class.  From the questions the people in the class were split with some people advanced and a lot starting from a very very basic level.  Sometimes the advice on the list was really helpful and in depth and sometimes it just gave the answer with no explanation (or the wrong answer).  One of the TAs (Arieh) seemed to be really good and on top of the list.\r\n\r\nIt might be good to offer a weekly recitation for people who feel theyre running behind, or offer a basic and honors section of the class.  ",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 0,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 26944,
+        "submission_date": "2012-01-17T22:37:17",
+        "workload": "10 labs (one optional).  One midterm and one final.  Midterm was mostly based on the labs.  The final was two parts, one based on a lab and the other on understanding C, pointers, etc."
+    },
+    {
+        "agree_count": 6,
+        "content": "Jae was a good teacher who cared about the students and put efforts in teaching, but as previous review mentioned, not mind-blowing.\r\n\r\nHe covered the C language very thoroughly and did an excellent job in teaching pointers--which may be one of the hardest part of C syntax. However, he spent almost half of the semester just teaching C language and as a result, the rest of lectures (netcat, building a web server, C++, etc) were very rushed. Many of my friends who had no knowledge of how web servers work struggled. Example codes and other references were provided but was hard to consume even after attending Jae's lectures.\r\n\r\nGrading was fair since there was no partial credit on midterm or final, but because of that, it did not truly reflect how much a student understood the material. Median grade for almost all labs were perfect grade--so labs did not affect your grade that much if you're in the top 50%, the average grade for midterm was very high while the avg for final was around 60, which made the final exam the only differentiating factor of the grade for most of the students. Also, even though the final covered materials from about 6~7 labs, the test only focused on 2~3 labs and *everything* was one word answer with no description allowed--no coding, no partial credit, etc, which penalized students who \"almost got it\" very heavily.\r\n\r\nOne thing that made Jae's class great was its clean organization. The organization of lectures (order, increasing level of difficulty, etc), mailing list, rubric for grading each labs, lecture notes and lab manuals were all very useful and carefully crafted. Overall, it was a good class and I did learn quite a lot.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 3,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 26926,
+        "submission_date": "2012-01-16T11:22:16",
+        "workload": "10 labs\r\n1 midterm\r\n1 final"
+    },
+    {
+        "agree_count": 24,
+        "content": "Jae is my idol. He is such a genuine, honest, and open teacher. Jae loves his subject and knows EVERYTHING about it. Jae was very responsive to student input regarding class administration. The only reason the class was because of students who took advantage of Jae's niceness and petitioned for extensions on every lab, nearly all of which were granted.\r\n\r\nI learned so much from this class. Judging from past CULPA reviews, it seems barely anyone has been able to do what has been deemed even a \"competent\" job teaching this course, so the fact that Jae made this class so useful and well-run while dealing with such a difficult course is a testament to his teaching ability. The bottom line is: if Jae is teaching Advanced Programming, you should take it with him. No other professor has been able to do even close to as good of a job.\r\n\r\nJae taught well, tested fairly, and is a generally awesome person. What more can you ask for? I wish every professor would be like Jae. Jae deserves his gold nugget rating.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 8,
+        "funny_count": 1,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 26895,
+        "submission_date": "2012-01-11T21:52:49",
+        "workload": "typical CS workload. 10 lab assignments, one of which took a little longer (the climax of  building the web server), midterm and final based on labs. fair grading. good teaching. that's all you need, right? "
+    },
+    {
+        "agree_count": 19,
+        "content": "Jae was an okay teacher with a fair grading scheme, but I wouldn't say he was mind-blowingly spectacular. Take my review with a grain of salt, as I got senioritis halfway through the semester and never went to office hours.\r\n\r\nThe semester started out well enough, with a lot of good explanation of pointers, C syntax, etc. But as time went on, he started to fall behind in his lectures. As a result, the lectures were less focused on explaining and teaching material and more focused on explaining what you need to know for the labs.\r\n\r\nLabs also took a similar route. I started from knowing the functions I would need for the labs to Googling everything. Thankfully there's stackoverflow and cplusplus. He would also always extend the lab due dates to reasonable dates for everyone.\r\n\r\nTests were fair. He emphasizes that doing the labs on your own and understanding what's really going on will be the best preparation for the exams, and he means it. I didn't need to study much else beyond reviewing the lab solutions.\r\n\r\nJae also set up a course listserv in which he (Jae), the TAs, and the students could all participate. Anyone could ask or answer question, post articles related to computer science in general, etc. It's a good system, but you have to find a way to sort course e-mails from the rest of your inbox; the listserv totaled 766 e-mails throughout the semester.\r\n\r\nOverall, someone with any initiative and the ability to adapt to CS languages shouldn't have a problem with this course, and there's plenty of resources to help you along the way if you seek them out. But don't expect to come out with god-like programming skills. It's just a CS course.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 11,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 26735,
+        "submission_date": "2011-12-25T22:58:54",
+        "workload": "10 labs, with lab 7 taking the longest time and lab 8 being truly optional\r\n1 midterm\r\n1 final"
+    },
+    {
+        "agree_count": 23,
+        "content": "Jae is the best teacher I have ever had, hands down, and definitely golden nugget-worthy. He is knowledgeable and approachable. He will never hesitate to review a concept that anyone is having trouble with and his explanations are unfailingly clear and highly informative. There are two required textbooks for the course, but most of us rarely had to crack either open since his syllabus and teaching ability are so great. One of the things I particularly liked was that he set up a mailing list at the beginning of the semester in which anyone could ask him, the TAs, and our peers to clarify concepts, etc. - this was extremely helpful, particularly for the labs.\r\nHe is always understanding of his students' tight schedules and tries to be flexible by granting class-wide extensions for the labs. This gets to be a little excessive by the end of the semester, and you start to depend on the high probability that you will have more time to finish the assignment, and here's a tip that took me ages to figure out: DONT!\r\nThe course covers the C programming language in depth, offers a good introduction to the UNIX environment, as well as an introduction to C++. However, he designs his lectures and labs to offer sufficient background for a variety of higher-level CS courses, so you will learn a lot more than that!\r\nAs Jae said at the beginning of the semester, his goal in this course is to take \"programming students\" and turn them into \"programmers\", and I believe he did just that.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 2,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 5,
+        "review_id": 22755,
+        "submission_date": "2009-05-13T20:09:01",
+        "workload": "10 labs (programming assignments), very time consuming, one of them is optional\r\n1 final, difficult"
+    },
+    {
+        "agree_count": 21,
+        "content": "Jae's lectures are always interesting, sometimes funny, and certainly relevant and helpful for completing the lab projects. Though many of the projects are rather time-consuming, they are all quite easy if one pays attention in lecture, reads Jae's lecture notes, asks questions on the mailing list, or goes to TA office hours. Jae is sympathetic to students' difficulties due to external influences and sometimes gives class-wide extensions on the projects.\r\n\r\nThe curriculum is a quick (but thorough) overview of C, C++, and UNIX programming and is very good preparation for many of the advanced CS courses.\r\nThere are 10 lab projects (one is optional), each of which one has about a week to complete (before the inevitable extension), and a final exam.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 1,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 3,
+        "review_id": 22643,
+        "submission_date": "2009-04-30T20:05:14",
+        "workload": "Light reading (though you can skim)\r\n10 lab projects (each can take several hours)\r\nFinal exam (40% of the grade)"
+    },
+    {
+        "agree_count": 30,
+        "content": "Jae does an excellent job making this class interesting and informative. He learns everyone's names and is always helpfully giving extensions for every lab assignment and responding to the class email. I learned a lot about how unix worked and how to write good c programs, including completion of a web server. The assignments are well thought out to build and each other and simulate real life programs.",
+        "course_header": {
+            "course_code": "COMS W3157",
+            "course_id": 4758,
+            "course_name": "Advanced Programming"
+        },
+        "disagree_count": 3,
+        "funny_count": 0,
+        "professor_header": {
+            "first_name": "Jae",
+            "last_name": "Lee",
+            "nugget": 1,
+            "professor_id": 3509,
+            "uni": "jwl3"
+        },
+        "rating": 4,
+        "review_id": 21659,
+        "submission_date": "2008-12-10T21:03:57",
+        "workload": "Light reading with programming due every week to two weeks. Assignments take a while but if you listen in lectures should be fairly easy."
+    }
+]
