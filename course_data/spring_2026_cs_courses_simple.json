@@ -1,0 +1,450 @@
+[
+    {
+        "course_code": "COMS W1004",
+        "name": "INTRO-COMPUT SCI/PROG IN JAVA",
+        "instructors": [
+            "Chris Murphy"
+        ],
+        "num_sections": 2,
+        "topics": [
+            "INTRO-COMPUT SCI/PROG IN"
+        ]
+    },
+    {
+        "course_code": "ENGI E1006",
+        "name": "INTRO TO COMP FOR ENG/APP SCI",
+        "instructors": [
+            "Maxwell Levatich and Daniel Bauer"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "INTRO TO COMP FOR ENG/APP"
+        ]
+    },
+    {
+        "course_code": "COMS W1404",
+        "name": "EMERGING SCHOLARS PROG SEMINAR",
+        "instructors": [
+            "Chris Murphy"
+        ],
+        "num_sections": 8,
+        "topics": [
+            "EMERGING SCHOLARS PROG SE"
+        ]
+    },
+    {
+        "course_code": "COMS W2132",
+        "name": "Intermediate Computing in Python",
+        "instructors": [
+            "Daniel Bauer"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "INTERMDTE COMPUTING IN PY"
+        ]
+    },
+    {
+        "course_code": "COMS W3134",
+        "name": "DATA STRUCTURES IN JAVA",
+        "instructors": [
+            "Paul S Blaer"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W3157",
+        "name": "ADVANCED PROGRAMMING",
+        "instructors": [
+            "Brian Borowski"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W3203",
+        "name": "DISCRETE MATHEMATICS",
+        "instructors": [
+            "Ansaf Salleb-Aouissi"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W3261",
+        "name": "COMPUTER SCIENCE THEORY",
+        "instructors": [
+            "Mihalis Yannakakis"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "CSEE W3827",
+        "name": "FUNDAMENTALS OF COMPUTER SYSTS",
+        "instructors": [
+            "Daniel S Rubenstein"
+        ],
+        "num_sections": 2,
+        "topics": [
+            "FUNDAMENTALS OF COMPUTER"
+        ]
+    },
+    {
+        "course_code": "COMS W4111",
+        "name": "INTRODUCTION TO DATABASES",
+        "instructors": [
+            "Donald F Ferguson"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4118",
+        "name": "OPERATING SYSTEMS I",
+        "instructors": [
+            "Hubertus Franke"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "CSEE W4119",
+        "name": "COMPUTER NETWORKS",
+        "instructors": [
+            "Xia Zhou"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "CSEE W4121",
+        "name": "COMPUTER SYSTEMS FOR DATA SCIENCE",
+        "instructors": [],
+        "num_sections": 1,
+        "topics": [
+            "COMPUTER SYSTEMS FOR DATA"
+        ]
+    },
+    {
+        "course_code": "COMS W4167",
+        "name": "COMPUTER ANIMATION",
+        "instructors": [
+            "Changxi Zheng"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4170",
+        "name": "USER INTERFACE DESIGN",
+        "instructors": [
+            "Celeste S Layne"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4172",
+        "name": "3D UI AND AUGMENTED REALITY",
+        "instructors": [
+            "Steven K Feiner"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "3D UI AND AUGMENTED REALI"
+        ]
+    },
+    {
+        "course_code": "CSOR W4231",
+        "name": "ANALYSIS OF ALGORITHMS I",
+        "instructors": [
+            "Eleni Drinea",
+            "Alexandr Andoni"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4232",
+        "name": "Advanced Algorithms",
+        "instructors": [
+            "Alexandr Andoni"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4281",
+        "name": "INTRO TO QUANTUM COMPUTING",
+        "instructors": [
+            "James L Bartusek"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "INTRO TO QUANTUM COMPUTIN"
+        ]
+    },
+    {
+        "course_code": "COMS W4419",
+        "name": "Internet Technology, Economics, and Poli",
+        "instructors": [
+            "Henning G Schulzrinne"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "INTERNET TECHN ECON AND P"
+        ]
+    },
+    {
+        "course_code": "COMS W4460",
+        "name": "PRIN-INNOVATN/ENTREPRENEURSHIP",
+        "instructors": [
+            "William Reinisch"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "PRIN-INNOVATN/ENTREPRENEU"
+        ]
+    },
+    {
+        "course_code": "COMS W4701",
+        "name": "ARTIFICIAL INTELLIGENCE",
+        "instructors": [
+            "Adam Lin"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4705",
+        "name": "NATURAL LANGUAGE PROCESSING",
+        "instructors": [
+            "Daniel Bauer",
+            "Andrei A Simion",
+            "Zhou Yu"
+        ],
+        "num_sections": 3,
+        "topics": [
+            "NATURAL LANGUAGE PROCESSI"
+        ]
+    },
+    {
+        "course_code": "COMS W4710",
+        "name": "Ethical and Responsible AI",
+        "instructors": [
+            "Ansaf Salleb-Aouissi"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "ETHIC AND RESPONSIBLE AI"
+        ]
+    },
+    {
+        "course_code": "COMS W4721",
+        "name": "MACHINE LEARNING FOR DATA SCI",
+        "instructors": [
+            "Yining Liu"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4732",
+        "name": "Computer Vision II: Learning",
+        "instructors": [
+            "Aleksander Holynski"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "Computer Vision II: Learn"
+        ]
+    },
+    {
+        "course_code": "CBMF W4761",
+        "name": "COMPUTATIONAL GENOMICS",
+        "instructors": [],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4771",
+        "name": "MACHINE LEARNING",
+        "instructors": [
+            "Tony B Dear"
+        ],
+        "num_sections": 2,
+        "topics": []
+    },
+    {
+        "course_code": "CSEE W4840",
+        "name": "EMBEDDED SYSTEMS",
+        "instructors": [
+            "Stephen A Edwards"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS W4995",
+        "name": "TOPICS IN COMPUTER SCIENCE",
+        "instructors": [
+            "Adam Kelleher",
+            "Gary Zamchick",
+            "Christian Swinehart",
+            "Yongwhan Lim",
+            "Andrei A Simion",
+            "Jae W Lee",
+            "Spencer Luo",
+            "Suman Jana",
+            "Zhuo Zhang",
+            "Timothy A Roughgarden",
+            "Adam B Block"
+        ],
+        "num_sections": 13,
+        "topics": [
+            "APPLIED MACHINE LEARNING",
+            "CAUSAL INFERENCE FOR DATA SCI",
+            "COMPETITIVE PROGRAMMING",
+            "INNOVATION & DESIGN LAB",
+            "C++ DEEP DIVE FOR C PRGS",
+            "APPLIED DEEP LEARNING",
+            "INTRO TO DATA VISUALIZATION",
+            "AI FOR SOFTWARE SECURITY",
+            "THRY ML INTERACT DECISION",
+            "MACHINE LEARNING SECURITY",
+            "ADV SYSTEMS PROGRAMMING",
+            "SCIENCE OF BLOCKCHAINS"
+        ]
+    },
+    {
+        "course_code": "COMS E6156",
+        "name": "TOPICS IN SOFTWARE ENGINEERING",
+        "instructors": [
+            "Gail E Kaiser"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "TOPICS IN SOFTWARE ENGINE"
+        ]
+    },
+    {
+        "course_code": "COMS E6178",
+        "name": "Human-Computer Interaction",
+        "instructors": [
+            "Brian A Smith"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "Human-Computer Interactio"
+        ]
+    },
+    {
+        "course_code": "COMS E6184",
+        "name": "ANONYMITY & PRIVACY",
+        "instructors": [
+            "Sebastian Zimmeck"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS E6261",
+        "name": "ADVANCED CRYPTOGRAPHY",
+        "instructors": [
+            "Tal Malkin"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS E6424",
+        "name": "HARDWARE SECURITY",
+        "instructors": [
+            "Simha Sethumadhavan"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "COMS E6706",
+        "name": "Advanced Spoken Language Processing",
+        "instructors": [
+            "Julia Hirschberg"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "ADV SPOKEN LANG PROC"
+        ]
+    },
+    {
+        "course_code": "COMS E6732",
+        "name": "COMPUTATIONAL IMAGING",
+        "instructors": [
+            "Shree K Nayar"
+        ],
+        "num_sections": 1,
+        "topics": []
+    },
+    {
+        "course_code": "CSEE E6868",
+        "name": "EMBEDDED SCALABLE PLATFORMS",
+        "instructors": [
+            "Luca Carloni"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "EMBEDDED SCALABLE PLATFOR"
+        ]
+    },
+    {
+        "course_code": "COMS E6975",
+        "name": "Advanced Topics in Natural Language Proc",
+        "instructors": [
+            "John Hewitt"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "LLM INTERP AND ALIGNMENT"
+        ]
+    },
+    {
+        "course_code": "COMS E6998",
+        "name": "TOPICS IN COMPUTER SCIENCE",
+        "instructors": [
+            "Yunzhu Li",
+            "Martha A Kim",
+            "Henry Yuen",
+            "Josh Alman",
+            "Silvia Sellan",
+            "Richard Zemel",
+            "Ihsin Chung and Seetharami Seelam",
+            "Kaoutar El Maghraoui",
+            "Toniann Pitassi"
+        ],
+        "num_sections": 10,
+        "topics": [
+            "CONTINUAL LEARN MEM MDLS",
+            "READINGS COMP ARCH",
+            "HIGH PERF MACH LEARNING",
+            "FINE GRAINED COMPLEXITY",
+            "TPCS SCALABLE MATRIX COMP",
+            "APPL MACHINE LEARN CLOUD",
+            "DEEP LEARNING ROBOT MANIP",
+            "TPCS GEOMETRY PROCESSING",
+            "COMMUNICATION COMPLEXITY APPS",
+            "QUANTUM ERROR CORRECTION"
+        ]
+    },
+    {
+        "course_code": "COMS E9902",
+        "name": "SEMINAR IN COMPUTER SCIENCE",
+        "instructors": [
+            "Eugene Wu and Kostis Kaffes"
+        ],
+        "num_sections": 1,
+        "topics": [
+            "FRONTIERS CS RESEARCH"
+        ]
+    }
+]

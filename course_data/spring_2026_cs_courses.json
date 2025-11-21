@@ -1,0 +1,1187 @@
+[
+    {
+        "course_code": "COMS W1004",
+        "name": "INTRO-COMPUT SCI/PROG IN JAVA",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "INTRO-COMPUT SCI/PROG IN",
+                "call_number": "12332",
+                "points": "3",
+                "day_time": "TR 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 43,
+                "max_enrollment": 189,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "002",
+                "topic": "INTRO-COMPUT SCI/PROG IN",
+                "call_number": "12333",
+                "points": "3",
+                "day_time": "TR 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 52,
+                "max_enrollment": 189,
+                "full": false,
+                "instructor": "Chris Murphy"
+            }
+        ]
+    },
+    {
+        "course_code": "ENGI E1006",
+        "name": "INTRO TO COMP FOR ENG/APP SCI",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "INTRO TO COMP FOR ENG/APP",
+                "call_number": "12401",
+                "points": "3",
+                "day_time": "MW 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 11,
+                "max_enrollment": 164,
+                "full": false,
+                "instructor": "Maxwell Levatich and Daniel Bauer"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W1404",
+        "name": "EMERGING SCHOLARS PROG SEMINAR",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12334",
+                "points": "1",
+                "day_time": "F 10:10am-11:25am",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "002",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12335",
+                "points": "1",
+                "day_time": "F 11:40am-12:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "003",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12336",
+                "points": "1",
+                "day_time": "F 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "004",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12337",
+                "points": "1",
+                "day_time": "F 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "005",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12338",
+                "points": "1",
+                "day_time": "F 9:30am-10:45am",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "006",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12339",
+                "points": "1",
+                "day_time": "F 11:00am-12:15pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "007",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12340",
+                "points": "1",
+                "day_time": "F 12:30pm-1:45pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            },
+            {
+                "section": "008",
+                "topic": "EMERGING SCHOLARS PROG SE",
+                "call_number": "12341",
+                "points": "1",
+                "day_time": "F 2:00pm-3:15pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 16,
+                "full": false,
+                "instructor": "Chris Murphy"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W2132",
+        "name": "Intermediate Computing in Python",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "INTERMDTE COMPUTING IN PY",
+                "call_number": "12342",
+                "points": "4",
+                "day_time": "MW 10:10am-11:25am",
+                "location": "To be announced",
+                "enrolled": 28,
+                "max_enrollment": 80,
+                "full": false,
+                "instructor": "Daniel Bauer"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W3134",
+        "name": "DATA STRUCTURES IN JAVA",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12344",
+                "points": "3",
+                "day_time": "MW 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 107,
+                "max_enrollment": 320,
+                "full": false,
+                "instructor": "Paul S Blaer"
+            },
+            {
+                "section": "002",
+                "call_number": "12345",
+                "points": "3",
+                "day_time": "MW 5:40pm-6:55pm",
+                "location": "To be announced",
+                "enrolled": 74,
+                "max_enrollment": 164,
+                "full": false,
+                "instructor": "Paul S Blaer"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W3157",
+        "name": "ADVANCED PROGRAMMING",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12346",
+                "points": "4",
+                "day_time": "MW 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 152,
+                "max_enrollment": 164,
+                "full": false,
+                "instructor": "Brian Borowski"
+            },
+            {
+                "section": "002",
+                "call_number": "12347",
+                "points": "4",
+                "day_time": "MW 5:40pm-6:55pm",
+                "location": "To be announced",
+                "enrolled": 46,
+                "max_enrollment": 164,
+                "full": false,
+                "instructor": "Brian Borowski"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W3203",
+        "name": "DISCRETE MATHEMATICS",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12348",
+                "points": "4",
+                "day_time": "TR 11:40am-12:55pm",
+                "location": "To be announced",
+                "enrolled": 200,
+                "max_enrollment": 200,
+                "full": true,
+                "instructor": "Ansaf Salleb-Aouissi"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W3261",
+        "name": "COMPUTER SCIENCE THEORY",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12349",
+                "points": "3",
+                "day_time": "MW 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 110,
+                "max_enrollment": 110,
+                "full": true,
+                "instructor": "Mihalis Yannakakis"
+            },
+            {
+                "section": "002",
+                "call_number": "12350",
+                "points": "3",
+                "day_time": "MW 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 111,
+                "max_enrollment": 110,
+                "full": true,
+                "instructor": "Mihalis Yannakakis"
+            }
+        ]
+    },
+    {
+        "course_code": "CSEE W3827",
+        "name": "FUNDAMENTALS OF COMPUTER SYSTS",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "FUNDAMENTALS OF COMPUTER",
+                "call_number": "12394",
+                "points": "3",
+                "day_time": "TR 10:10am-11:25am",
+                "location": "To be announced",
+                "enrolled": 110,
+                "max_enrollment": 110,
+                "full": true,
+                "instructor": "Daniel S Rubenstein"
+            },
+            {
+                "section": "002",
+                "topic": "FUNDAMENTALS OF COMPUTER",
+                "call_number": "12395",
+                "points": "3",
+                "day_time": "TR 11:40am-12:55pm",
+                "location": "To be announced",
+                "enrolled": 110,
+                "max_enrollment": 110,
+                "full": true,
+                "instructor": "Daniel S Rubenstein"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4111",
+        "name": "INTRODUCTION TO DATABASES",
+        "sections": [
+            {
+                "section": "002",
+                "call_number": "12351",
+                "points": "3",
+                "day_time": "F 10:10am-12:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 125,
+                "full": false,
+                "instructor": "Donald F Ferguson"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4118",
+        "name": "OPERATING SYSTEMS I",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12352",
+                "points": "3",
+                "day_time": "M 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Hubertus Franke"
+            }
+        ]
+    },
+    {
+        "course_code": "CSEE W4119",
+        "name": "COMPUTER NETWORKS",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12396",
+                "points": "3",
+                "day_time": "TR 11:40am-12:55pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 120,
+                "full": false,
+                "instructor": "Xia Zhou"
+            }
+        ]
+    },
+    {
+        "course_code": "CSEE W4121",
+        "name": "COMPUTER SYSTEMS FOR DATA SCIENCE",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "COMPUTER SYSTEMS FOR DATA",
+                "call_number": "16119",
+                "points": "3",
+                "day_time": "W 4:10pm-6:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 200,
+                "full": false,
+                "notes": "MS Data Science Students Only"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4167",
+        "name": "COMPUTER ANIMATION",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "16837",
+                "points": "3",
+                "day_time": "TR 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 8,
+                "max_enrollment": 50,
+                "full": false,
+                "instructor": "Changxi Zheng"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4170",
+        "name": "USER INTERFACE DESIGN",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12353",
+                "points": "3",
+                "day_time": "T 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 200,
+                "full": false,
+                "instructor": "Celeste S Layne"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4172",
+        "name": "3D UI AND AUGMENTED REALITY",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "3D UI AND AUGMENTED REALI",
+                "call_number": "12354",
+                "points": "3",
+                "day_time": "TR 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 45,
+                "full": false,
+                "instructor": "Steven K Feiner"
+            }
+        ]
+    },
+    {
+        "course_code": "CSOR W4231",
+        "name": "ANALYSIS OF ALGORITHMS I",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12399",
+                "points": "3",
+                "day_time": "F 10:10am-12:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 120,
+                "full": false,
+                "instructor": "Eleni Drinea"
+            },
+            {
+                "section": "002",
+                "call_number": "12400",
+                "points": "3",
+                "day_time": "MW 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 70,
+                "full": false,
+                "instructor": "Alexandr Andoni"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4232",
+        "name": "Advanced Algorithms",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12355",
+                "points": "3",
+                "day_time": "MW 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 50,
+                "full": false,
+                "instructor": "Alexandr Andoni"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4281",
+        "name": "INTRO TO QUANTUM COMPUTING",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "INTRO TO QUANTUM COMPUTIN",
+                "call_number": "12356",
+                "points": "3",
+                "day_time": "TR 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 100,
+                "full": false,
+                "instructor": "James L Bartusek"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4419",
+        "name": "Internet Technology, Economics, and Poli",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "INTERNET TECHN ECON AND P",
+                "call_number": "12357",
+                "points": "3",
+                "day_time": "MW 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 50,
+                "max_enrollment": 44,
+                "full": true,
+                "instructor": "Henning G Schulzrinne"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4460",
+        "name": "PRIN-INNOVATN/ENTREPRENEURSHIP",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "PRIN-INNOVATN/ENTREPRENEU",
+                "call_number": "12358",
+                "points": "3",
+                "day_time": "MW 8:40am-9:55am",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "William Reinisch"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4701",
+        "name": "ARTIFICIAL INTELLIGENCE",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12359",
+                "points": "3",
+                "day_time": "TR 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 120,
+                "full": false,
+                "instructor": "Adam Lin"
+            },
+            {
+                "section": "002",
+                "call_number": "12360",
+                "points": "3",
+                "day_time": "TR 6:40pm-7:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Adam Lin"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4705",
+        "name": "NATURAL LANGUAGE PROCESSING",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "NATURAL LANGUAGE PROCESSI",
+                "call_number": "12361",
+                "points": "3",
+                "day_time": "TR 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Zhou Yu"
+            },
+            {
+                "section": "002",
+                "topic": "NATURAL LANGUAGE PROCESSI",
+                "call_number": "12627",
+                "points": "3",
+                "day_time": "F 1:10pm-3:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Daniel Bauer"
+            },
+            {
+                "section": "030",
+                "topic": "NATURAL LANGUAGE PROCESSI",
+                "call_number": "11555",
+                "points": "3",
+                "day_time": "M 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 14,
+                "max_enrollment": 90,
+                "full": false,
+                "notes": "MS Data Science Priority",
+                "instructor": "Andrei A Simion"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4710",
+        "name": "Ethical and Responsible AI",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "ETHIC AND RESPONSIBLE AI",
+                "call_number": "12362",
+                "points": "3",
+                "day_time": "TR 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 120,
+                "full": false,
+                "instructor": "Ansaf Salleb-Aouissi"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4721",
+        "name": "MACHINE LEARNING FOR DATA SCI",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "11556",
+                "points": "3",
+                "day_time": "TR 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 100,
+                "full": false,
+                "notes": "Couse for MS Data Science students",
+                "instructor": "Yining Liu"
+            },
+            {
+                "section": "002",
+                "call_number": "12505",
+                "points": "3",
+                "day_time": "TR 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 100,
+                "full": false,
+                "notes": "Couse for MS Data Science students",
+                "instructor": "Yining Liu"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4732",
+        "name": "Computer Vision II: Learning",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "Computer Vision II: Learn",
+                "call_number": "12363",
+                "points": "3",
+                "day_time": "F 9:10am-11:40am",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Aleksander Holynski"
+            }
+        ]
+    },
+    {
+        "course_code": "CBMF W4761",
+        "name": "COMPUTATIONAL GENOMICS",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12331",
+                "points": "3",
+                "day_time": "MW 5:40pm-6:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 60,
+                "full": false
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4771",
+        "name": "MACHINE LEARNING",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12364",
+                "points": "3",
+                "day_time": "MW 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Tony B Dear"
+            },
+            {
+                "section": "002",
+                "call_number": "12366",
+                "points": "3",
+                "day_time": "MW 4:10pm-5:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Tony B Dear"
+            }
+        ]
+    },
+    {
+        "course_code": "CSEE W4840",
+        "name": "EMBEDDED SYSTEMS",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12397",
+                "points": "3",
+                "day_time": "MW 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 110,
+                "full": false,
+                "instructor": "Stephen A Edwards"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS W4995",
+        "name": "TOPICS IN COMPUTER SCIENCE",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "SCIENCE OF BLOCKCHAINS",
+                "call_number": "12367",
+                "points": "3",
+                "day_time": "MW 8:40am-9:55am",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 60,
+                "full": false,
+                "instructor": "Timothy A Roughgarden"
+            },
+            {
+                "section": "002",
+                "topic": "INNOVATION & DESIGN LAB",
+                "call_number": "12368",
+                "points": "3",
+                "day_time": "T 1:10pm-3:40pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Gary Zamchick"
+            },
+            {
+                "section": "003",
+                "topic": "INNOVATION & DESIGN LAB",
+                "call_number": "12369",
+                "points": "3",
+                "day_time": "F 1:10pm-3:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Gary Zamchick"
+            },
+            {
+                "section": "004",
+                "topic": "ADV SYSTEMS PROGRAMMING",
+                "call_number": "12370",
+                "points": "3",
+                "day_time": "MW 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 40,
+                "max_enrollment": 70,
+                "full": false,
+                "instructor": "Jae W Lee"
+            },
+            {
+                "section": "005",
+                "topic": "C++ DEEP DIVE FOR C PRGS",
+                "call_number": "12372",
+                "points": "3",
+                "day_time": "MW 5:40pm-6:55pm",
+                "location": "To be announced",
+                "enrolled": 62,
+                "max_enrollment": 120,
+                "full": false,
+                "instructor": "Jae W Lee"
+            },
+            {
+                "section": "006",
+                "topic": "INTRO TO DATA VISUALIZATION",
+                "call_number": "12373",
+                "points": "3",
+                "day_time": "R 4:10pm-6:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Christian Swinehart"
+            },
+            {
+                "section": "007",
+                "topic": "COMPETITIVE PROGRAMMING",
+                "call_number": "12374",
+                "points": "3",
+                "day_time": "M 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 2,
+                "max_enrollment": 90,
+                "full": false,
+                "instructor": "Yongwhan Lim"
+            },
+            {
+                "section": "008",
+                "topic": "MACHINE LEARNING SECURITY",
+                "call_number": "12375",
+                "points": "3",
+                "day_time": "F 12:10pm-2:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 30,
+                "full": false,
+                "instructor": "Suman Jana"
+            },
+            {
+                "section": "009",
+                "topic": "THRY ML INTERACT DECISION",
+                "call_number": "12628",
+                "points": "3",
+                "day_time": "TR 1:10pm-2:25pm",
+                "location": "To be announced",
+                "enrolled": 28,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Adam B Block"
+            },
+            {
+                "section": "010",
+                "topic": "AI FOR SOFTWARE SECURITY",
+                "call_number": "16839",
+                "points": "3",
+                "day_time": "TR 5:40pm-6:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 20,
+                "full": false,
+                "instructor": "Zhuo Zhang"
+            },
+            {
+                "section": "030",
+                "topic": "CAUSAL INFERENCE FOR DATA SCI",
+                "call_number": "11588",
+                "points": "3",
+                "day_time": "W 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 75,
+                "full": false,
+                "notes": "MS Data Science Priority",
+                "instructor": "Adam Kelleher"
+            },
+            {
+                "section": "031",
+                "topic": "APPLIED MACHINE LEARNING",
+                "call_number": "11649",
+                "points": "3",
+                "day_time": "W 4:10pm-6:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 90,
+                "full": false,
+                "notes": "MS Data Science Priority",
+                "instructor": "Spencer Luo"
+            },
+            {
+                "section": "032",
+                "topic": "APPLIED DEEP LEARNING",
+                "call_number": "12504",
+                "points": "3",
+                "day_time": "R 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 90,
+                "full": false,
+                "notes": "MS Data Science and IEOR Priority",
+                "instructor": "Andrei A Simion"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6156",
+        "name": "TOPICS IN SOFTWARE ENGINEERING",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "TOPICS IN SOFTWARE ENGINE",
+                "call_number": "12376",
+                "points": "3",
+                "day_time": "TR 10:10am-11:25am",
+                "location": "To be announced",
+                "enrolled": 19,
+                "max_enrollment": 30,
+                "full": false,
+                "instructor": "Gail E Kaiser"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6178",
+        "name": "Human-Computer Interaction",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "Human-Computer Interactio",
+                "call_number": "12377",
+                "points": "3",
+                "day_time": "W 1:10pm-3:40pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 30,
+                "full": false,
+                "instructor": "Brian A Smith"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6184",
+        "name": "ANONYMITY & PRIVACY",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "16799",
+                "points": "3",
+                "day_time": "F 12:10pm-2:00pm",
+                "location": "To be announced",
+                "enrolled": 21,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Sebastian Zimmeck"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6261",
+        "name": "ADVANCED CRYPTOGRAPHY",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12378",
+                "points": "3",
+                "day_time": "R 2:10pm-4:00pm",
+                "location": "To be announced",
+                "enrolled": 1,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Tal Malkin"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6424",
+        "name": "HARDWARE SECURITY",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12380",
+                "points": "3",
+                "day_time": "MW 10:10am-11:25am",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 30,
+                "full": false,
+                "instructor": "Simha Sethumadhavan"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6706",
+        "name": "Advanced Spoken Language Processing",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "ADV SPOKEN LANG PROC",
+                "call_number": "13663",
+                "points": "3",
+                "day_time": "T 4:10pm-6:00pm",
+                "location": "To be announced",
+                "enrolled": 17,
+                "max_enrollment": 70,
+                "full": false,
+                "notes": "Please submit answers when joining the Wait List - https://d",
+                "instructor": "Julia Hirschberg"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6732",
+        "name": "COMPUTATIONAL IMAGING",
+        "sections": [
+            {
+                "section": "001",
+                "call_number": "12382",
+                "points": "3",
+                "day_time": "M 4:10pm-6:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 20,
+                "full": false,
+                "instructor": "Shree K Nayar"
+            }
+        ]
+    },
+    {
+        "course_code": "CSEE E6868",
+        "name": "EMBEDDED SCALABLE PLATFORMS",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "EMBEDDED SCALABLE PLATFOR",
+                "call_number": "12398",
+                "points": "3",
+                "day_time": "W 6:10pm-8:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 30,
+                "full": false,
+                "instructor": "Luca Carloni"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6975",
+        "name": "Advanced Topics in Natural Language Proc",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "LLM INTERP AND ALIGNMENT",
+                "call_number": "13662",
+                "points": "3",
+                "day_time": "F 12:10pm-2:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 30,
+                "full": false,
+                "instructor": "John Hewitt"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E6998",
+        "name": "TOPICS IN COMPUTER SCIENCE",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "TPCS GEOMETRY PROCESSING",
+                "call_number": "12384",
+                "points": "3",
+                "day_time": "M 4:10pm-6:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 20,
+                "full": false,
+                "instructor": "Silvia Sellan"
+            },
+            {
+                "section": "002",
+                "topic": "TPCS SCALABLE MATRIX COMP",
+                "call_number": "12385",
+                "points": "3",
+                "day_time": "F 12:10pm-2:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 40,
+                "full": false
+            },
+            {
+                "section": "003",
+                "topic": "HIGH PERF MACH LEARNING",
+                "call_number": "12386",
+                "points": "3",
+                "day_time": "M 7:00pm-9:30pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 120,
+                "full": false,
+                "instructor": "Kaoutar El Maghraoui"
+            },
+            {
+                "section": "004",
+                "topic": "APPL MACHINE LEARN CLOUD",
+                "call_number": "12387",
+                "points": "3",
+                "day_time": "R 4:10pm-6:40pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Ihsin Chung and Seetharami Seelam"
+            },
+            {
+                "section": "005",
+                "topic": "FINE GRAINED COMPLEXITY",
+                "call_number": "12388",
+                "points": "3",
+                "day_time": "T 2:10pm-4:00pm",
+                "location": "To be announced",
+                "enrolled": 10,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Josh Alman"
+            },
+            {
+                "section": "006",
+                "topic": "QUANTUM ERROR CORRECTION",
+                "call_number": "12389",
+                "points": "3",
+                "day_time": "F 10:10am-12:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 40,
+                "full": false,
+                "instructor": "Henry Yuen"
+            },
+            {
+                "section": "007",
+                "topic": "READINGS COMP ARCH",
+                "call_number": "12390",
+                "points": "3",
+                "day_time": "F 10:10am-12:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 20,
+                "full": false,
+                "instructor": "Martha A Kim"
+            },
+            {
+                "section": "008",
+                "topic": "DEEP LEARNING ROBOT MANIP",
+                "call_number": "12391",
+                "points": "3",
+                "day_time": "F 10:10am-12:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 50,
+                "full": false,
+                "instructor": "Yunzhu Li"
+            },
+            {
+                "section": "009",
+                "topic": "COMMUNICATION COMPLEXITY APPS",
+                "call_number": "12392",
+                "points": "3",
+                "day_time": "W 1:10pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 20,
+                "full": false,
+                "instructor": "Toniann Pitassi"
+            },
+            {
+                "section": "010",
+                "topic": "CONTINUAL LEARN MEM MDLS",
+                "call_number": "12567",
+                "points": "3",
+                "day_time": "W 2:10pm-4:00pm",
+                "location": "To be announced",
+                "enrolled": 0,
+                "max_enrollment": 50,
+                "full": false,
+                "instructor": "Richard Zemel"
+            }
+        ]
+    },
+    {
+        "course_code": "COMS E9902",
+        "name": "SEMINAR IN COMPUTER SCIENCE",
+        "sections": [
+            {
+                "section": "001",
+                "topic": "FRONTIERS CS RESEARCH",
+                "call_number": "12393",
+                "points": "3",
+                "day_time": "T 2:40pm-3:55pm",
+                "location": "To be announced",
+                "enrolled": 15,
+                "max_enrollment": 25,
+                "full": false,
+                "notes": "This course is only for CS doctoral students",
+                "instructor": "Eugene Wu and Kostis Kaffes"
+            }
+        ]
+    }
+]
